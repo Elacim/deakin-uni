@@ -1,0 +1,4 @@
+- Pre lab quiz
+- Pre lab task
+	- Hand in at practical
+- Read appendix 2 to refresh understanding of biological drawings

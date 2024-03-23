@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Instructions - 2 (Your assessment).md","id":"b2aa0e0d3d5a4d69","x":201,"y":-1080,"width":400,"height":173},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Example methodology.md","id":"0822571e821a1223","x":-896,"y":400,"width":633,"height":580},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Instructions - 2 (part B).md","id":"d18718840db710ec","x":143,"y":-1400,"width":516,"height":240},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Instructions - 2 (Part C).md","id":"d8cb12d047a09512","x":880,"y":-1427,"width":621,"height":907},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Instructions - 2 (Part D).md","id":"3b891b9f507cdce7","x":-26,"y":-792,"width":854,"height":712},
+		{"type":"link","url":"https://totalinternalreflectionblog.com/2017/09/06/seeing-triple-a-short-guide-to-experiment-reproducibility/","id":"0e41235d5141b6f5","x":-2960,"y":-200,"width":880,"height":793},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Instructions - 2 (part A).md","id":"09bf30092c2a3fd1","x":-520,"y":-1420,"width":620,"height":574},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Example - Experimental Plan.md","id":"5c80526da4d44627","x":-1880,"y":-260,"width":786,"height":527,"color":"6"},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Catalase experiment example.mp4","id":"39a48460356a3d5b","x":-1760,"y":-2021,"width":1068,"height":601},
+		{"type":"link","url":"https://scholarlykitchen.sspnet.org/2018/11/02/understanding-experimental-controls/","id":"40c7d9c956c039d8","x":-2080,"y":-1240,"width":960,"height":840},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Authentic Assessment Rubric.pdf","id":"c171d98df511fcb2","x":-20,"y":120,"width":1527,"height":1400},
+		{"type":"file","file":"Practicals/Practical 3 - Authentic Assessment/Instructions/Available Equipment.md","id":"096dbb65e686a939","x":-980,"y":-540,"width":840,"height":813},
+		{"type":"file","file":"Practicals/Reading list SLE111.pdf","id":"ab1da00c3b1a606a","x":-1880,"y":400,"width":793,"height":760,"color":"3"}
+	],
+	"edges":[
+		{"id":"c1c5be6e39827327","fromNode":"b2aa0e0d3d5a4d69","fromSide":"left","toNode":"09bf30092c2a3fd1","toSide":"right"},
+		{"id":"6a97018ec01a1528","fromNode":"b2aa0e0d3d5a4d69","fromSide":"bottom","toNode":"3b891b9f507cdce7","toSide":"top"},
+		{"id":"b4ca8c9cc6f8635b","fromNode":"b2aa0e0d3d5a4d69","fromSide":"top","toNode":"d18718840db710ec","toSide":"bottom"},
+		{"id":"e38d05bdcaf1d046","fromNode":"b2aa0e0d3d5a4d69","fromSide":"right","toNode":"d8cb12d047a09512","toSide":"left"},
+		{"id":"7af048350046d2aa","fromNode":"5c80526da4d44627","fromSide":"left","toNode":"0e41235d5141b6f5","toSide":"right"},
+		{"id":"d7cb9b49e0330949","fromNode":"5c80526da4d44627","fromSide":"top","toNode":"40c7d9c956c039d8","toSide":"bottom"},
+		{"id":"59219cf130147ded","fromNode":"5c80526da4d44627","fromSide":"bottom","toNode":"ab1da00c3b1a606a","toSide":"top"}
+	]
+}

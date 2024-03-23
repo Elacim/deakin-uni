@@ -1,0 +1,1 @@
+**pH:** Also known as acidity, pH means the 'potential/power of Hydrogen'. It is calculated using the formula $-log([H{^+}])$, where $H{^+}$ is the mol/L of hydrogen cations in a given solution. -> https://en.wikipedia.org/wiki/PH

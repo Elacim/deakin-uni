@@ -1,0 +1,1 @@
+[[Acids-Bases-and-Salts_compressed.pdf]] -> taken from https://www.toppr.com/guides/chemistry/acids-bases-and-salts/ph/

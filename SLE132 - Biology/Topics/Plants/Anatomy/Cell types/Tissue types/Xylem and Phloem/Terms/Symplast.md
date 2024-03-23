@@ -1,0 +1,1 @@
+Symplast :: The internal side of the plasma membrane (cytoplasm) where osmosis and diffusion can freely occur

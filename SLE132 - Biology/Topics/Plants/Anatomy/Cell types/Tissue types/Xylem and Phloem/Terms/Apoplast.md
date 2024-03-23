@@ -1,0 +1,1 @@
+Apoplast :: Cell wall
