@@ -1,0 +1,1 @@
+Are ![[Isomer questions - methyl cycloct-2-ene.png]]
