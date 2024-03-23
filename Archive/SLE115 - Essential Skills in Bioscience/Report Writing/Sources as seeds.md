@@ -1,0 +1,1 @@
+Use the list of references at the end of an article as a 'seed' to find a good resource.
