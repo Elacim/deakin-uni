@@ -1,0 +1,40 @@
+
+e |----------------
+B |------5-5-------
+G |----6-----6-----
+D |--7---------7---
+A |--7-----------7-
+E |5---------------
+
+E:5/(7/7)/6/55\6\7\A:7
+
+
+E:5/(7/7/6/5)
+
+
+- Chord -
+Bm[A:2/D:4/G:4/B:3/e:2]
+>Bm
+
+- Arpeggio format -
+*Bm
+
+
+When matching a shortcut like Bm, we add a indicator to it, like '>Bm' to indicate that everything past '>' that is A-Z should be matched
+We can use shortcuts
+Bm = [A:2/D:4/G:4/B:3/e:2]
+>Bm = Bm chord
+*^4Bm = Bm upwards arpeggio with first 4 strings
+*v5Bm = Bm downwards arpeggio with all 5 strings
+*[0-9]Bm = User-set Bm pattern (e.g. *0Bm or *4Bm both would autofill a pattern)
+
+*'FeltShapeBm1' = I Felt Your Shape starting Bm pattern
+*'FeltShapeG' = I Felt Your Shape G pattern
+
+
+- Presets file -
+*<preset name>
+[Bm] = Bm chord shape
+[Bm]^4 = Bm upwards arpeggi on first 4 strings 
+
+*FeltShapeBm1 = 'A:8 6 \ 10 8'

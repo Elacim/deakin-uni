@@ -1,0 +1,51 @@
+[gd_scene load_steps=3 format=3 uid="uid://b62rx5oq30yfv"]
+
+[ext_resource type="Script" path="res://FormulaMenu.gd" id="1_mtpxo"]
+[ext_resource type="Texture2D" uid="uid://c5nrr33rp5afo" path="res://addons/kenney_prototype_textures/dark/texture_05.png" id="2_ya87e"]
+
+[node name="FormulaMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_mtpxo")
+
+[node name="Background" type="TextureRect" parent="."]
+show_behind_parent = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_ya87e")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="TabBar" type="TabBar" parent="."]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_left = 37.0
+offset_top = 10.0
+offset_right = -37.0
+offset_bottom = 66.0
+grow_horizontal = 2
+tab_count = 1
+tab_0/title = "tab 2"
+
+[node name="Formulas" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 136.0
+offset_top = 123.0
+offset_right = -136.0
+offset_bottom = -123.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[connection signal="tab_changed" from="TabBar" to="." method="_on_tab_bar_tab_changed"]

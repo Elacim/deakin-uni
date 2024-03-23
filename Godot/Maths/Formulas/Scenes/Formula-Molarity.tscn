@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://vcdhb71jryrp"]
+
+[ext_resource type="Script" path="res://Formulas/FormulaScene.gd" id="1_0acca"]
+[ext_resource type="Resource" uid="uid://b1ym3q063odu4" path="res://Formulas/Resources/FormulaMolarity.tres" id="2_75l2l"]
+
+[node name="Formula-Molarity" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_0acca")
+formula = ExtResource("2_75l2l")

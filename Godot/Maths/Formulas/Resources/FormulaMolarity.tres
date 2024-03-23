@@ -1,0 +1,63 @@
+[gd_resource type="Resource" script_class="Formula" load_steps=11 format=3 uid="uid://b1ym3q063odu4"]
+
+[ext_resource type="Script" path="res://Formulas/Scripts/Inputs.gd" id="1_msx2f"]
+[ext_resource type="Script" path="res://Formulas/Scripts/InputsArray.gd" id="2_nfu03"]
+[ext_resource type="Script" path="res://Formulas/Scripts/Formula.gd" id="3_8pyvx"]
+[ext_resource type="Script" path="res://Formulas/FormulaVariations.gd" id="4_ytq3k"]
+
+[sub_resource type="Resource" id="Resource_gvq16"]
+script = ExtResource("1_msx2f")
+type = 0
+input_var = &"C"
+input_shorthand = &"Concentration"
+input_desc = &"mol/L"
+value = 0.0
+required_unit = &""
+
+[sub_resource type="Resource" id="Resource_pgxgt"]
+script = ExtResource("1_msx2f")
+type = 0
+input_var = &"n"
+input_shorthand = &"Moles"
+input_desc = &"mol"
+value = 0.0
+required_unit = &""
+
+[sub_resource type="Resource" id="Resource_iqcip"]
+script = ExtResource("1_msx2f")
+type = 0
+input_var = &"V"
+input_shorthand = &"Volume"
+input_desc = &"In litres"
+value = 0.0
+required_unit = &""
+
+[sub_resource type="Resource" id="Resource_iy7oo"]
+script = ExtResource("1_msx2f")
+type = 2.0
+input_var = &"m"
+input_shorthand = &"Mass"
+input_desc = &"In grams"
+value = 0.0
+required_unit = &""
+
+[sub_resource type="Resource" id="Resource_w3ypb"]
+script = ExtResource("2_nfu03")
+inputs = Array[ExtResource("1_msx2f")]([SubResource("Resource_gvq16"), SubResource("Resource_pgxgt"), SubResource("Resource_iqcip"), SubResource("Resource_iy7oo")])
+
+[sub_resource type="Resource" id="Resource_1aq25"]
+script = ExtResource("4_ytq3k")
+formulas = {
+"C": "n/V",
+"V": "n/C",
+"n": "C*V"
+}
+
+[resource]
+script = ExtResource("3_8pyvx")
+title = &"Molarity"
+inputs = SubResource("Resource_w3ypb")
+max_variable_count = 1
+max_optional_args = 0
+display_formula_string = &"C=n/V"
+variations = SubResource("Resource_1aq25")

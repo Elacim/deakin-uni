@@ -1,0 +1,28 @@
+[gd_scene load_steps=4 format=3 uid="uid://capxqmia5q8rp"]
+
+[ext_resource type="Script" path="res://Formulas/FormulaScene.gd" id="1_ay6ts"]
+[ext_resource type="Script" path="res://Formulas/Scripts/Formula.gd" id="2_1a065"]
+
+[sub_resource type="Resource" id="Resource_fu10b"]
+script = ExtResource("2_1a065")
+title = &""
+max_variable_count = 1
+max_optional_args = 0
+display_formula_string = &""
+extra_functions = Array[Callable]([])
+
+[node name="FormulaScene" type="Control" node_paths=PackedStringArray("inputs_parent")]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ay6ts")
+formula = SubResource("Resource_fu10b")
+inputs_parent = NodePath("InputFields")
+
+[node name="InputFields" type="Control" parent="."]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0

@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=3 uid="uid://0uqfvt5lb3h2"]
+
+[ext_resource type="Script" path="res://LineEditInputs.gd" id="1_rbldj"]
+
+[node name="LineEditInputs" type="LineEdit"]
+offset_right = 135.0
+offset_bottom = 47.0
+script = ExtResource("1_rbldj")
+
+[node name="InputName" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_left = -128.0
+offset_bottom = 97.0
+bbcode_enabled = true
+
+[node name="InputDescription" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_top = 47.0
+offset_right = 265.0
+offset_bottom = 87.0
+bbcode_enabled = true

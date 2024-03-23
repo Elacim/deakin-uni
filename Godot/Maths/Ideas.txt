@@ -1,0 +1,5 @@
+To copy and paste information quickly
+ -> Right click to paste
+ -> Ctrl + Right click to copy
+ -> Middle click clears field
+middle

@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://bsel8a7bnq35f"]
+
+[ext_resource type="Script" path="res://Data Variance/Self-centeredRichTextLabel.gd" id="1_torr5"]
+
+[node name="RichTextDescription" type="RichTextLabel"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+bbcode_enabled = true
+text = "[center]Add info, name, whatever here[/center]"
+fit_content = true
+script = ExtResource("1_torr5")
+
+[node name="ChangingInfo" type="RichTextLabel" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 243.0
+offset_top = -254.0
+offset_right = -243.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "[center][/center]"
+fit_content = true
+script = ExtResource("1_torr5")

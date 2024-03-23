@@ -1,0 +1,64 @@
+[gd_resource type="Resource" script_class="Formula" load_steps=11 format=3 uid="uid://lqg52pq2lsmj"]
+
+[ext_resource type="Script" path="res://Formulas/Scripts/Inputs.gd" id="1_k2cyn"]
+[ext_resource type="Script" path="res://Formulas/Scripts/InputsArray.gd" id="2_d3afv"]
+[ext_resource type="Script" path="res://Formulas/Scripts/Formula.gd" id="3_tk2h0"]
+[ext_resource type="Script" path="res://Formulas/FormulaVariations.gd" id="4_jlali"]
+
+[sub_resource type="Resource" id="Resource_yulgc"]
+script = ExtResource("1_k2cyn")
+type = 0
+input_var = &"C1"
+input_shorthand = &"Concentration 1"
+input_desc = &"1st solution conc."
+value = 0.0
+required_unit = &"mol/L"
+
+[sub_resource type="Resource" id="Resource_isfw3"]
+script = ExtResource("1_k2cyn")
+type = 0
+input_var = &"V1"
+input_shorthand = &"Stock volume"
+input_desc = &"Stock volume (in Litres) of the first solution"
+value = 0.0
+required_unit = &"L"
+
+[sub_resource type="Resource" id="Resource_j1jk0"]
+script = ExtResource("1_k2cyn")
+type = 0
+input_var = &"C2"
+input_shorthand = &"Concentration 2"
+input_desc = &"2nd solution conc."
+value = 0.0
+required_unit = &"mol/L"
+
+[sub_resource type="Resource" id="Resource_wjjro"]
+script = ExtResource("1_k2cyn")
+type = 0
+input_var = &"V2"
+input_shorthand = &"Volume 2"
+input_desc = &"Concentration of the second solution"
+value = 0.0
+required_unit = &"L"
+
+[sub_resource type="Resource" id="Resource_5eq4s"]
+script = ExtResource("2_d3afv")
+inputs = Array[ExtResource("1_k2cyn")]([SubResource("Resource_yulgc"), SubResource("Resource_isfw3"), SubResource("Resource_j1jk0"), SubResource("Resource_wjjro")])
+
+[sub_resource type="Resource" id="Resource_fugb8"]
+script = ExtResource("4_jlali")
+formulas = {
+"c1": "(c2 * v2) / v1",
+"c2": "(c1 * v1) / v2",
+"v1": "(c2 * v2) / c1",
+"v2": "(c1 * v1) / c2"
+}
+
+[resource]
+script = ExtResource("3_tk2h0")
+title = &"C1V1 = C2V2"
+inputs = SubResource("Resource_5eq4s")
+max_variable_count = 1
+max_optional_args = 0
+display_formula_string = &"C1 * V1 = C2 * V2"
+variations = SubResource("Resource_fugb8")

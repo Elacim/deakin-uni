@@ -1,0 +1,29 @@
+
+{
+	"type" : TYPES.MOLECULE,
+	"value" : [
+		{
+			"type" : TYPES.ELEMENT,
+			"value" : "C"
+			"amount" : 6
+			},
+		{
+			"type" : TYPES.ELEMENT,
+			"value" : "H"
+			"amount" : 12
+		},
+			"type" : TYPES.ELEMENT,
+			"value" : "O"
+			"amount" : 8
+	],
+	""
+}
+
+
+{
+	"type" : TYPES.Function,
+	"args" : [
+		Expression/Molecule
+	]
+	
+}
