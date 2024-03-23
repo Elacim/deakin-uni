@@ -1,0 +1,327 @@
+Delivered-To: cowethan@gmail.com
+Received: by 2002:a05:6a10:a792:b0:515:78fb:1b40 with SMTP id t18csp287179pxx;
+        Mon, 20 Nov 2023 21:02:46 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IGVJPKvwphvugDdnvwsNtwRL9IvbpXY+GrLMQSGsAdjurGOq9jqdMnsrms7cEtcbZeSZ/CD
+X-Received: by 2002:ac8:7dd6:0:b0:412:1fd7:dfa1 with SMTP id c22-20020ac87dd6000000b004121fd7dfa1mr9555564qte.8.1700542966659;
+        Mon, 20 Nov 2023 21:02:46 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1700542966; cv=none;
+        d=google.com; s=arc-20160816;
+        b=CsD9+NsM5Inru6DTvHokxxEHMa+crMHOGf0HjI64KOpcL8DWt24ws0Uyj2cZWDncZe
+         lXy1PTfYZZLMnDSFuL7CcA8NQv0hydSZdeUzKEsIpiXjrZubyAaDe0gS5BgjbBljTqA8
+         PZpsPnw68BgPL3H3C91Lmp6xgF7NgZDicSjgEpDODAEEcj5a9AGXewdHz8bVm1sBMqfw
+         tymu3DVDBNr0KuwKPNOStO/BjQXH4OyA2/0UNuWNwcfTXegMS0F6eH9ulnDMTy8DU6Xl
+         weDGDv+wnHbvF4ddkBBBLg54YKiWiyvuDXxswnzJvqNosuvSoXAeLAZ3odXhQqJUuJFR
+         7k1A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=cc:to:reply-to:message-id:mime-version:date:from:subject
+         :dkim-signature:dkim-signature;
+        bh=plwV2xNN4sA5dogge1+z95lkWbJH+4bJ0NtG6kLKSIs=;
+        fh=i9dwEMO6kaM/De5fi4p14isyB/LY6o+AEvcwHi64rig=;
+        b=AxbuMegZ/l+lRnZ/m1sb5B29huv/5PC/PH/5c9Xp2VX7OUSry4/kEtTN5l2rouw7vA
+         KP1yv9+thiQqSPlEwwk3vDCi2qqFob4fkiet1gLCAUsg9a5H8jkZTwGzMx+YdKZJuaiO
+         k1LtYSEk3BCn5qvXeyrgXilmc4ATGUoqCLqRSypOpQ4yKz2CCv3kg0PtSuO5zIEt1J5Q
+         qHgozbjrZ9hbOO5HFvX0bg0CZXbHVKxbA1jz+EAmgHGqcy93h4kBLZgyXmEkk66g7+wb
+         O8uKDs1Hp2zyl2vgQMKqhC2ipuF3+y61pjRLt1epXNKeDlcTHA2QDg0/dywsHRSzLEWu
+         RFJw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@navigate.e.navitas.com header.s=s1 header.b=VT8LsGHz;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=WsgaEr3Y;
+       spf=pass (google.com: domain of bounces+933867-73ea-cowethan=gmail.com@em2825.navigate.e.navitas.com designates 198.37.155.132 as permitted sender) smtp.mailfrom="bounces+933867-73ea-cowethan=gmail.com@em2825.navigate.e.navitas.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=navitas.com
+Return-Path: <bounces+933867-73ea-cowethan=gmail.com@em2825.navigate.e.navitas.com>
+Received: from o1.email.navigate.d.navitas.com (o1.email.navigate.d.navitas.com. [198.37.155.132])
+        by mx.google.com with ESMTPS id k2-20020ac85fc2000000b00417afb934casi8963945qta.683.2023.11.20.21.02.45
+        for <cowethan@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 20 Nov 2023 21:02:46 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+933867-73ea-cowethan=gmail.com@em2825.navigate.e.navitas.com designates 198.37.155.132 as permitted sender) client-ip=198.37.155.132;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@navigate.e.navitas.com header.s=s1 header.b=VT8LsGHz;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=WsgaEr3Y;
+       spf=pass (google.com: domain of bounces+933867-73ea-cowethan=gmail.com@em2825.navigate.e.navitas.com designates 198.37.155.132 as permitted sender) smtp.mailfrom="bounces+933867-73ea-cowethan=gmail.com@em2825.navigate.e.navitas.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=navitas.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=navigate.e.navitas.com;
+	h=subject:from:content-type:mime-version:reply-to:x-feedback-id:to:cc:
+	cc:content-type:from:subject:to;
+	s=s1; bh=plwV2xNN4sA5dogge1+z95lkWbJH+4bJ0NtG6kLKSIs=;
+	b=VT8LsGHzFvKoeQHre+hOq7R8k7gYBdOFgbKq0OIkC2oyhnpyH/FYknAdrBN1jpbPQz4m
+	t7xRBhHntKo4/qpE63SDZpn2Lb/lk4+6rdt8D/84Ar2K1KOnupZYQjtvcY8KPJT60dJ06C
+	wqNUMU8wnyE6s/UcFAl+czXgXq/bF3rAYkgdRCCCOXKucdTb85/03qMoqVqtRU57pjftPE
+	tQ0AbjpiEM4rvFFHVE8/fJd/EB7YI/NewBni7YdDDMP3KrJnCBL449ADeOBwsViwZDvLYE
+	I7UmL6BP81OxFLhxTcE+lRXYQEfghg4EZsOG/3FvDFwrG5dpHK1KRvVI01AH4xNA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=subject:from:content-type:mime-version:reply-to:x-feedback-id:to:cc:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=plwV2xNN4sA5dogge1+z95lkWbJH+4bJ0NtG6kLKSIs=;
+	b=WsgaEr3YZAWb+q7rBDXlkDLnn3kH+RFnaZ4KAvXXDNozf23jFRa/6jRS2DFE05R+ZWkU
+	U4XyiGwv5+lz4HSPendkzdwMCa7mKTH7K7uVL1LmzfsVGfUcccSfFB4qTxb3wRFqIaGcI9
+	fIGafvvgsOCgpeFg+Wog7y/VWYTJpoclE=
+Received: by filterdrecv-8db964b6b-mc7nt with SMTP id filterdrecv-8db964b6b-mc7nt-1-655C39F4-10
+        2023-11-21 05:02:44.719598207 +0000 UTC m=+2974839.967531551
+Received: from SendGrid (unknown)
+	by geopod-ismtpd-7 (SG) with ESMTP
+	id 2C4--ixLQzChmX-v3aNVsw
+	Tue, 21 Nov 2023 05:02:44.301 +0000 (UTC)
+Subject: Special Consideration - Not Approved   (SIT191)
+From: Deakin College <Ncf8a2b0d03aba3bb8fb8-reply@navigate.e.navitas.com>
+Date: Tue, 21 Nov 2023 05:02:44 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="=_b33d978c4dc8e9bdcb80bc30331095fc"
+MIME-Version: 1.0
+Message-ID: <2C4--ixLQzChmX-v3aNVsw@geopod-ismtpd-7>
+Reply-To: Deakin College <Ncf8a2b0d03aba3bb8fb8-reply@navigate.e.navitas.com>
+X-Feedback-ID: 933867:SG
+X-SG-EID: 
+ =?us-ascii?Q?27DID1T9MFQgwU9v=2FTCw99oLrCimWoKg9w8DGvG5QjoTJvvtkoMI96XaqQULSM?=
+ =?us-ascii?Q?ji0efg59Jb5ZRx5lwu7v46LJ+Hq5R69tjsI4DUY?=
+ =?us-ascii?Q?FQ2fH4qDU8S0gr75aSKpG=2FaIsZYmZNpqF55eyHn?=
+ =?us-ascii?Q?LeunKQPt=2FO+8AuD64wtVtBfr+JL9l6AyrxAUjJW?=
+ =?us-ascii?Q?uVFIOG7aswyHxeRU2Uu0nlVRtymxI6162qKz3gH?=
+ =?us-ascii?Q?vQ=2FhiVluEd3zo5SnaaJZ=2FvRmx5XRFgEGlosOc0X?=
+ =?us-ascii?Q?onPMXctCWurll3l0sNQLjGmrRoYuG5PaHHW0LxE?= =?us-ascii?Q?PI8=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb8raWjw0ZPf1VmjsCkspi=2FKUEpqzPEVCx7scQeT7fh?=
+ =?us-ascii?Q?hsAJ7n+zjG49CXfT8xjOmRTg=3D=3D?=
+To: 5017309@learning.deakincollege.edu.au
+Cc: cowethan@gmail.com
+X-Entity-ID: P8z/QDywSMsAr13AwF1EzQ==
+
+--=_b33d978c4dc8e9bdcb80bc30331095fc
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=A021 Nov 2023
+
+Student ID:=A05017309
+
+=A0
+
+Dear=A0Ethan Del=A0COWLISHAW,
+
+=A0
+
+This email is to advise that your special consideration application for {Pr=
+oblem Solving Task 1} in the unit {SIT191} held/due on {17/11/2023} has not=
+ been approved.
+
+=A0
+
+Comment form=A0 your Academic Coordinator
+
+Medical certificate does not include dates of assessment task.=A0
+
+=A0
+
+=A0
+
+This decision was made as the following conditions were not met:
+
+Section 4 of the Special Consideration Procedure states that for applicatio=
+ns on medical grounds, the Deakin College Medical Practitioner Certificate =
+(page 3 of Special Consideration application form) must be fully completed,=
+ signed, dated and stamped by a registered medical practitioner, and must c=
+over the time period referred to in the special consideration application.
+
+The date/s indicated on the Medical Certificate you provided did not corres=
+pond to the applicable date/s of the assessment.
+
+In accordance with Standard 10 of the National Code of Practice for Provide=
+rs of Education and Training Services to Overseas Students 2018, you have t=
+he right to appeal this decision.=A0 The Deakin College Appeals policy is a=
+vailable at: http://navigate.e.navitas.com/ls/click?upn=3Dl0FMqV3Yv7GyVnhog=
+KdpUzVygDqwXr8agEf5Iay2ueas6LaBicDwDZ-2FsXW0qBoucB3AFB1vLL7rT-2FjeX0F8VFA-3=
+D-3DfAEa_zvi91sOLF-2FRKgsiuo8FMVocss1aZYdyUYnv6MkOyxH-2B3aZk25qcW9LavfBORnJ=
+u70OOF7MFS-2FVdur3UwiBAe4EqR1hDc8rYwDHDUKQA2HlaLdwiEjuBbHU8uXQk-2FrnTlutovx=
+idfumrMShXsr-2FcTC4Wi9zRvMtzKlalEKZs5H7qZWsoO-2BFy6LbejRK-2F3OAzdpqwgaSUF6h=
+D04fVFBw274OL7tIUyox7tIzlnfaMYZnzrxvJd8L9pJZv9GL7nFykl
+
+If you choose to appeal the decision, please submit an Appeal Application t=
+ogether with new supporting document(s) to Deakin College Appeals Committee=
+ at dcoll-appeals@deakin.edu.au within 20 business days from the date of th=
+is letter.=A0 The Deakin College Appeal Application can be obtained from th=
+e Student Portal (hhttp://navigate.e.navitas.com/ls/click?upn=3DituYlEI9PNi=
+NOYR1nTP8kdd5Y8bX7UJ-2FVQvK-2FzYf8BOd5ycB2iSZ0JDPkkYf5U-2Ft0kYtM2zywwyLT11p=
+D7HtLg-3D-3Dh-zh_zvi91sOLF-2FRKgsiuo8FMVocss1aZYdyUYnv6MkOyxH-2B3aZk25qcW9L=
+avfBORnJu70OOF7MFS-2FVdur3UwiBAe4EqR1hDc8rYwDHDUKQA2HlbMQDW9X90SVo-2FtVuq-2=
+B5mXL8v5Qcwzy8yjMiKr45pzLang-2FEllhurqXIc63UwJNvlO8dQqrV1IlIeIPrsO1tApXY1PP=
+CqoH63cQY-2B3gQF6-2FEguf6y652XXIxLlKv1XDdRHv-2F0Z9fBOsQNZdS1HzHWQB
+
+go to Student Portal ->=A0Documents, Forms and Links -> Student Forms, or a=
+t Deakin College Reception.
+
+=A0
+
+=A0
+
+Deakin College wishes you well in your studies.
+
+=A0
+
+Kind regards,
+
+Deakin College Academic Services=A0
+
+=A0
+
+Irene Garganis
+
+Student & Academic Services Officer (Generalist)
+
+=A0
+
+Deakin College
+
+Postal Address: 221 Burwood Hwy, Burwood VIC 3125 Australia
+
+Location: Level 4, International Centre (Building LA) 70 Elgar Road (Entran=
+ce 3) Burwood VIC 3125
+
+Burwood Campus Ph: +613 9244 5197
+
+Waterfront Campus Ph: +613 5227 2890
+
+Waurn Ponds Campus Ph: +613 5227 2890
+
+W: http://navigate.e.navitas.com/ls/click?upn=3Dl0FMqV3Yv7GyVnhogKdpUzVygDq=
+wXr8agEf5Iay2uebfAdXzBfrq7sW8eEX176GEmjar_zvi91sOLF-2FRKgsiuo8FMVocss1aZYdy=
+UYnv6MkOyxH-2B3aZk25qcW9LavfBORnJu70OOF7MFS-2FVdur3UwiBAe4EqR1hDc8rYwDHDUKQ=
+A2HlaqfJTaa5-2F-2F9-2B1z6RmsEATsPJ8gkyAkfCmGq2-2FycEWZz0WiaTPU0mkd8UNBFsinR=
+YuaL1XMJPjcKXTJ4IL67opjdi6wi6qJIt6yTt8lEDA5VkkqqB4O5pQvNJjoLnwG5G2W38m2MQDY=
+u35Yba5DqC4v
+
+=A0E: dcoll-acadserv@deakin.edu.au
+
+=A0
+
+=A0
+
+=A0
+
+Melbourne Institute of Business and Technology Pty Ltd trading as Deakin Co=
+llege
+
+CRICOS Provider Codes: Deakin College 01590J, Deakin University 00113B
+
+A member of Navitas Limited
+
+=A0
+
+--=_b33d978c4dc8e9bdcb80bc30331095fc
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>&nbsp;21 Nov 2023</p>
+<p>Student ID:&nbsp;5017309</p>
+<p>&nbsp;</p>
+<p>Dear&nbsp;Ethan Del&nbsp;COWLISHAW,</p>
+<p>&nbsp;</p>
+<p>This email is to advise that your special consideration application for =
+<strong>{Problem Solving Task 1} </strong>in the unit <strong>{SIT191} </st=
+rong>held/due on <strong>{17/11/2023} </strong>has not been approved.</p>
+<p>&nbsp;</p>
+<p><span style=3D"background-color: #fbeeb8;"><strong>Comment form&nbsp; yo=
+ur Academic Coordinator</strong></span></p>
+<p><span style=3D"background-color: #fbeeb8;"><strong>Medical certificate d=
+oes not include dates of assessment task.&nbsp;</strong></span></p>
+<p class=3D"Subject" style=3D"margin: 0cm; margin-bottom: .0001pt;">&nbsp;<=
+/p>
+<p class=3D"Subject" style=3D"margin: 0cm; margin-bottom: .0001pt;">&nbsp;<=
+/p>
+<p>This decision was made as the following conditions were not met:</p>
+<p>Section 4 of the Special Consideration Procedure states that for applica=
+tions on medical grounds, the Deakin College Medical Practitioner Certifica=
+te (page 3 of Special Consideration application form) must be fully complet=
+ed, signed, dated and stamped by a registered medical practitioner, and mus=
+t cover the time period referred to in the special consideration applicatio=
+n.</p>
+<p><strong>The date/s indicated on the Medical Certificate you provided did=
+ not correspond to the applicable date/s of the assessment.</strong></p>
+<p>In accordance with Standard 10 of the National Code of Practice for Prov=
+iders of Education and Training Services to Overseas Students 2018, you hav=
+e the right to appeal this decision.&nbsp; The Deakin College Appeals polic=
+y is available at: <a href=3D"http://navigate.e.navitas.com/ls/click?upn=3D=
+l0FMqV3Yv7GyVnhogKdpUzVygDqwXr8agEf5Iay2ueas6LaBicDwDZ-2FsXW0qBouc8HcTiDh8f=
+30pQBAyZsYmjw-3D-3DAGkl_zvi91sOLF-2FRKgsiuo8FMVocss1aZYdyUYnv6MkOyxH-2B3aZk=
+25qcW9LavfBORnJu70OOF7MFS-2FVdur3UwiBAe4EqR1hDc8rYwDHDUKQA2HlYMGHVhec-2BGfc=
+Ur4E9Zd-2BFsYfXSd3qkU6woET0Xp-2BaBxMmyqlvvFsEyHgfoVzp8ZTBQADwK8RUa3029NyGvZ=
+siZItvqQquoNz-2FgInsUTtX7VlAzdEo-2BByfWChnb-2Ba9vBVYvMxtyua5HrKcyybbQSoM8">=
+https://www.deakincollege.edu.au/policies-procedures</a>.</p>
+<p>If you choose to appeal the decision, please submit an Appeal Applicatio=
+n together with new supporting document(s) to Deakin College Appeals Commit=
+tee at <a href=3D"mailto:dcoll-appeals@deakin.edu.au">dcoll-appeals@deakin.=
+edu.au</a> within 20 business days from the date of this letter.&nbsp; The =
+Deakin College Appeal Application can be obtained from the Student Portal (=
+<a href=3D"http://navigate.e.navitas.com/ls/click?upn=3DXmEjXKLJ1Y8SeMKQrgs=
+worIRbT0vILSmiLJzNItWTD7YLnvK49I1WfM7AuXI64H0w52H5-2B7RwsfEmzx3abD4mA-3D-3D=
+ocF6_zvi91sOLF-2FRKgsiuo8FMVocss1aZYdyUYnv6MkOyxH-2B3aZk25qcW9LavfBORnJu70O=
+OF7MFS-2FVdur3UwiBAe4EqR1hDc8rYwDHDUKQA2HlYLANOpv1R-2F-2BjnTVnB0wAqQMgXJW8B=
+lHLxCwvZLneHHB16kUXVP7gTUuo-2FY3I513MpDbobPP59seziGPG9C-2BRii-2BoURy-2BCV-2=
+BclsLLf6eP58zsMxsdAzPZtsSYedTYp4NekMfC1NfoesMbvv2tj6YCwc">h</a><a href=3D"h=
+ttp://navigate.e.navitas.com/ls/click?upn=3DituYlEI9PNiNOYR1nTP8kZQHbHceXkO=
+-2BtW0TF9PCNp-2BwITd1ZDy11INN3Pqgisi-2Bal5zFIfFqi1ytZiLJJy9-2B5dgDBBVRWLXKa=
+iMvI-2BEn48RsWXNnxdjVjYYKHbe0fqTacRc1W6SAeLID1IcNVS9ME86x9oO8I-2FM80H2S6NRJ=
+0Q7jabz4XxINWMsNviHNe-2BJCH7smmVT-2Fo7Eby4a7G8yX5zyoRjhoWBG7cE00jPhQv829vYq=
+treXKTrOz5BVZ-2FpCUv8ECnD2y2NCX6R1GlC4C1MKF-2FWfi52TcogAtHYjhkVd9om3gnOEquF=
+9neR4kaQDNVnFkc3vyUWr7QpTXlDzllDeu-2B5MbdpNLX77Lu-2Fg-2B62DK3Osm4UToIM5aAqO=
+8k3l07TVctSBK-2FUjkX-2BE0rx3jNNLZcMF1Aayjh8PAV-2Ba2fSkjoGHEK3Q2mHL2jthdPo1X=
+Plq8yWuM5-2B7E2aAYoa0prpFq7snXPjSbTtfRq6nHgE1NMHd-2FkM8fiaaWAkEtAHxlBMz7RNP=
+ulg4p0xUdV74AdZs80ffoK4fwmDmA96vw0GJ2tXTKFSQNd7TNV82lI5dlCDt_zvi91sOLF-2FRK=
+gsiuo8FMVocss1aZYdyUYnv6MkOyxH-2B3aZk25qcW9LavfBORnJu70OOF7MFS-2FVdur3UwiBA=
+e4EqR1hDc8rYwDHDUKQA2HlYtvkpBQM6h1-2FD18XpcyLLibzmirn1iSQsnxvDP5rxw93VKAdWh=
+R7UlOy09lOi1u7rQNy-2FvTLvyZGm1p6TXjOKv4upD6XQUVe7qJo8v4ESSnST-2B6Za7WYmiX7j=
+ZkUnJPOMwygufA-2FaVRC2crQZ-2FaH9X">https://app.pipefy.com/public/form/SKcJy=
+Ey0</a>)</p>
+<p>go to Student Portal -&gt;&nbsp;Documents, Forms and Links -&gt; Student=
+ Forms, or at Deakin College Reception.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Deakin College wishes you well in your studies.</p>
+<p>&nbsp;</p>
+<p>Kind regards,</p>
+<p>Deakin College Academic Services&nbsp;</p>
+<p>&nbsp;</p>
+<p>Irene Garganis</p>
+<p>Student & Academic Services Officer (Generalist)</p>
+<p>&nbsp;</p>
+<p><strong>Deakin College</strong></p>
+<p>Postal Address: 221 Burwood Hwy, Burwood VIC 3125 Australia</p>
+<p>Location: Level 4, International Centre (Building LA) 70 Elgar Road (Ent=
+rance 3) Burwood VIC 3125</p>
+<p>Burwood Campus Ph: +613 9244 5197</p>
+<p>Waterfront Campus Ph: +613 5227 2890</p>
+<p>Waurn Ponds Campus Ph: +613 5227 2890</p>
+<p>W: <a href=3D"http://navigate.e.navitas.com/ls/click?upn=3Dl0FMqV3Yv7GyV=
+nhogKdpUzVygDqwXr8agEf5Iay2uebfAdXzBfrq7sW8eEX176GEWXnd_zvi91sOLF-2FRKgsiuo=
+8FMVocss1aZYdyUYnv6MkOyxH-2B3aZk25qcW9LavfBORnJu70OOF7MFS-2FVdur3UwiBAe4EqR=
+1hDc8rYwDHDUKQA2HlY29TMUiSEpXco4AF3sNdUVVqso-2FdXdD-2FS3BcY04wrKNUBZdyuyS1Q=
+w5onxd-2FYktX7Zi-2FWjHtlyTapnD69ewvwPACOekrfKBzLSvi5Hu3KYdkmNeAm4EWtujS7xLi=
+n-2F0OkPE-2FaLkaXui7BbiXG1Bghu">https://www.deakincollege.edu.au</a></p>
+<p>&nbsp;E: <a href=3D"mailto:dcoll-acadserv@deakin.edu.au">dcoll-acadserv@=
+deakin.edu.au</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Melbourne Institute of Business and Technology Pty Ltd trading as Deakin=
+ College</p>
+<p>CRICOS Provider Codes: Deakin College 01590J, Deakin University 00113B</=
+p>
+<p>A member of Navitas Limited</p>
+<p>&nbsp;</p>
+<img src=3D"http://navigate.e.navitas.com/wf/open?upn=3DKcvhG-2BoliZmLaENuf=
+9bVX6Qt-2B-2Flw8vGL-2FB6USox-2FG1R5RfjauY89co674AtJrmWNicO9diB0kL-2B586u6vY=
+kUIvSoWyLfFjcxXCVDMjuNaCrKN939mvs5YSA7OMxmAsHrJ4hzKIWI5DSHOMTI6zOa23Pj4Vyqb=
+KBk2Pb5y2JfxeDcKk-2BQxcUhCxe7t437-2BFmka4cGwQv3t4iT8O7FMYCfXkIHNN9vH4Qkl7-2=
+B8xTbOSOdx5orhgpvV6kpipRB0-2FwVixUEZyQttLe73g9Js3duz5Q-3D-3D" alt=3D"" widt=
+h=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px =
+!important;border-width:0 !important;margin-top:0 !important;margin-bottom:=
+0 !important;margin-right:0 !important;margin-left:0 !important;padding-top=
+:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddin=
+g-left:0 !important;"/></body>
+</html>
+
+--=_b33d978c4dc8e9bdcb80bc30331095fc--
