@@ -1,0 +1,28 @@
+*-exclude.pdf
+*-exclude
+*-exclude.webm
+*-exclude.mp4
+*-exclude.zip
+
+
+**/.obsidian
+# Add exceptions with an exclamation point, like: 
+#   !not-a-textbook -exclude.pdf
+
+# To add exceptions based on size:
+# find . -size +100M | cat >> .gitignore
+# Finds all files that are 100MB or greater and writes it to .gitignore
+
+Archive/SLE133 - Chemistry in Our World/Chemistry Core Concepts - Allan Blackman, Daniel Southam, -exclude.pdf
+Campbell Biology_ Australian an - Lisa A Urry -exclude.pdf
+Chemistry Core Concepts - Allan Blackman, Daniel Southam, -exclude.pdf
+Maths/Archive/SIT191 - Stats/Assessments/Problem Solving Task 3/Problem Solving Task 3 - finished_20240124_0001 - Copy -exclude.pdf
+Physics/College Physics 2e by OpenStax -exclude.pdf
+SLE132 - Biology/Campbell Biology_ Australian an - Lisa A Urry -exclude.pdf
+SLE132 - Biology/SLE132 - Form & Function/Campbell Biology_ Australian an - Lisa A Urry -exclude -exclude.pdf
+SLE132 - Biology/SLE132 - Form & Function/SLE132 - Practicals/Practical 4/Campbell Biology_ Australian an - Lisa A Urry -exclude -exclude.pdf
+SLE155 - Chemistry/Chemistry Core Concepts - Allan Blackman, Daniel Southam, -exclude.pdf
+SLE155 - Chemistry/SLE133 - Chemistry in Our World/Chemistry Core Concepts - Allan Blackman, Daniel Southam, -exclude.pdf
+SLE155 - Chemistry/SLE155 - Chemistry for the Professional Sciences/Chemistry Core Concepts - Allan Blackman, Daniel Southam, -exclude.pdf
+SLE155 - Chemistry/SLE155 - Chemistry for the Professional Sciences/Chemistry Core Concepts - Allan Blackman, Daniel Southam, -exclude.zip
+SLE155 - Chemistry/SLE155 - Chemistry for the Professional Sciences/Practicals/Practical 5/GMT20230117-215819_Recording_1920x1020 -exclude.mp4
