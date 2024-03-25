@@ -1,4 +1,5 @@
 **Links**
+- [[Quadratics]] 
 - [[Graph transformations]] 
 
 $y = x^{2} - 5x + 7$

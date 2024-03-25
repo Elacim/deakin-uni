@@ -7,7 +7,6 @@ https://www.youtube.com/watch?v=7xE5pj9-n1Q
 If the coefficient of $x^{2}$ is not 1, then divide by this coefficient
 	e.g. $2x^{2} - 4x + 8 \rightarrow 2(x^{2} -2x + 2)$
 
-
 Identify the coefficient $b$ of the $x$ term
 	$x^{2} - 2x + 2$ has $b=-2$
 

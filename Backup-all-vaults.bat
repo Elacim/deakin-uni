@@ -12,7 +12,6 @@ echo.
 set /P msg=Enter the commit message: 
 
 
-
 git commit -am "%msg%"
 echo.
 

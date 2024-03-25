@@ -1,4 +1,6 @@
 **Links**
+- [[Quadratics]] 
+- [[Quadratic formula]] 
 - [[Factorising and expanding]] 
 
 
