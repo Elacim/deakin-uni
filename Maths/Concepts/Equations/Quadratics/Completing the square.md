@@ -1,6 +1,7 @@
 **Links**
 - [[Quadratics#Turning point form]] 
 - [[Quadratic formula]] 
+- [[4.1P]] 
 
 https://www.youtube.com/watch?v=7xE5pj9-n1Q
 

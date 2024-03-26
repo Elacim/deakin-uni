@@ -1,5 +1,5 @@
 **Links**
-- [[Week 2 - Notes#Sampling methods]]
+- [[Week 2 - Notes - SIT191#Sampling methods]]
 
 What are the two categories of sampling methods? :: Random and non-random
 Types of Random sampling :: Simple random, systematic, stratified, cluster, and multistage (Descriptions on Slide 5a)
