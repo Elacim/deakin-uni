@@ -1,5 +1,6 @@
 **Links**
 - [[Exponents]] 
+- [[Simplifying exponents]] (good demonstration of the laws)
 
 ##### Multiplication
 Rule 1 :: $a_{m} \times a_{n} = a^{m+n}$

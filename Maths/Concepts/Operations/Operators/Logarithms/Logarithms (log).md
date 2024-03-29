@@ -1,4 +1,7 @@
 **Links**
+- [[Log Laws]]
+- [[Logarithm questions]] 
+- [[Log resources]] 
 - [[Exponents]] 
 
 **Logarithm** :: The exponent or power ($e$) to which a base ($b$) must be raised to yield a given number ($n$) -> $log_{b}(n)=e$
@@ -20,11 +23,6 @@ $b$ = base
 | $log_2(512)=9$     | $2^9=512$     |
 | $log_5(25)=2$      | $5^2=25$      |
 
-##### Log laws 
-$log_{a}(m)+log_{a}(n)=log_{a}(mn)$
-$log_{a}(m)-log_{a}(n)=log_{a}(\frac{m}{n})$
-$log_{a}(m^{n})=(n)log_{a}(m)$
-$log_{a}(a)=1$
-$log_{a}(1)=0$
 
-Changing logs: $log_{a}(b) = \frac{log_{c}(b)}{log_{c}(a)}$
+![[Log Laws]]
+
