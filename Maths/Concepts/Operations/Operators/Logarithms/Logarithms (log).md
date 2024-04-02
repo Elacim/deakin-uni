@@ -1,6 +1,8 @@
 **Links**
+- [[Explaining logarithms]] 
 - [[Log Laws]]
-- [[Logarithm questions]] 
+- [[Logarithm questions]]
+- [[Natural log, ln()]] 
 - [[Log resources]] 
 - [[Exponents]] 
 

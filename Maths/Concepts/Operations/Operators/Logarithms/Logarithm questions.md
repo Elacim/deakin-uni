@@ -40,3 +40,15 @@ Apply [[Log Laws - Log base of base]]
 -> $log_{e}(e^{x}) = log_{e}(17)$
 -> $1 \times x = log_{e}(17)$
 $x = log_{e}(17)$
+
+
+
+# Solve for $x$:
+$2y = 10 + e^{3x-4}$
+Remember reverse BODMAS - subtract the 10 before ln()'ing
+-> $2y - 10 = e^{3x-4}$
+-> $ln(2y - 10) = ln(e^{3x-4})$
+-> $ln(2y - 10) = 3x-4$
+-> $ln(2y - 10) + 4 = 3x$
+-> $\frac{ln(2y - 10) + 4}{3} = x$
+$x=\frac{ln(2y - 10) + 4}{3}$
