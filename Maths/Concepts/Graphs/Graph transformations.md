@@ -1,5 +1,4 @@
 **Links**
-- [[Graphing quadratics]] 
 - [[Graphing functions]] 
 
 #### Translation

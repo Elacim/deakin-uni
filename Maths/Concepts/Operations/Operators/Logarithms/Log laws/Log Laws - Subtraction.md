@@ -1,7 +1,7 @@
 
 **Links**
 - [[Logarithms (log)]] 
-	- [[Logarithm questions]] 
+	- [[Log questions - Misc.]] 
 - [[Log Laws - Addition]] 
 - -\> [[Log Laws - Subtraction]]
 - [[Log Laws - Log(m raised to n)]]

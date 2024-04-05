@@ -4,11 +4,11 @@
 - [[Density]] 
 
 ? :: The pressure by itself not including the atmospheric pressure
-$\rho gd$ or $\rho g h$ :: Gauge pressure
+Formula :: $\rho gd$ or $\rho g h$
+$\rho g h$/$\rho gd$ meaning :: Density ($\ce{kg/m^{3}}$) $\times$ Gravity ($\ce{m/s^{2}}$) $\times$ Height/Difference ($\ce{metres}$)
 
 $P_{gauge} = P_{abs} - P_{atm}$
 Absolute pressure :: $P = P_{gauge} + P_{atm}$
-
 
 #### Manometer
 - Used to find the pressure difference in mmHg
@@ -21,10 +21,14 @@ Absolute pressure :: $P = P_{gauge} + P_{atm}$
 $\rho_{Hg}$  = $13,600$kg/$m^{3}$
 
 A mamometer's mercury rises by 12cm when attached to a gas. What is the gauge pressure of the gas?
-$d = -12 + -12 = -24cm$
-$13,600 \times -0.24m \times 9.8 = -31987.2 = -32kPa$
+$d_{ifference} = -12 + -12 = -24cm$
+-> $24cm \xrightarrow{\text{metres}} 0.24$ metres
+$\rho g d$
+-> $13,600 \times -0.24m \times 9.8 = -31987.2 = -32kPa$
 How about the absolute pressure?
-$-32kPa + 101kPa = 69kPa$
+$P = P_{gauge} + P_{atm}$
+-> $-32kPa + 101kPa = 69kPa$
+
 
 
 #### Example

@@ -1,4 +1,5 @@
-**Links**
+ **Links**
+ - [[Pascal's Principle]] 
 - [[Gauge pressure]] 
 - [[Fluids]] 
 - [[Density]] 
@@ -39,15 +40,14 @@ $\frac{6\times1000\times9.81}{4\times0.15} = 98100$ pascals
 **Woman weighs 60kg, with a footprint of 0.0015$\ce{m^{2}}$**
 $\frac{60\times9.81}{2\times0.0015} = 196200$ pascals
 
-
-
-Steve (85kg) has shoes with an area of $0.03m^{2}$
+**Steve (85kg) has shoes with an area of $0.03m^{2}$**
 - Pressure when standing still?
 	- $\frac{85 * 9.81}{2*0.03} = 13898Pa = 13.9kPa$
 - Pressure when on one leg?
 	- $\frac{85 * 9.81}{0.03} = 27795Pa = 27.8kPa$
 - About to jump with acceleration of $5\ce{ms^{2}}$?
 	- $F_{up}= mg + (m\times a)$
+		- Force to overcome gravity + force to accelerate $5 \ce{m/s^{2}}$
 		- $85 \times 9.8 + (85 \times 5)$
 		- $1258N$
 	$P = \frac{1258}{0.03 \times 2} = 20966.7Pa = 20.9kPa$

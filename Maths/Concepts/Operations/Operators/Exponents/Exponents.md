@@ -12,3 +12,5 @@ $log_{2}(\frac{1}{8})$
 -> $2 \times 2 \times 2 = 8$
 -> $\frac{1}{2^{3}} = 2^{-3}$
 	-> $2^{-3} = 2 \times \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8}$
+
+

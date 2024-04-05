@@ -1,6 +1,6 @@
 **Links**
 - [[Logarithms (log)]] 
-	- [[Logarithm questions]] 
+	- [[Log questions - Misc.]] 
 - [[Log Laws - Addition]] 
 - [[Log Laws - Subtraction]]
 - [[Log Laws - Log(m raised to n)]]
@@ -9,3 +9,4 @@
 - -\> [[Log Laws - Changing logs]]
 
 $log_{a}(b) = \frac{log_{c}(b)}{log_{c}(a)}$
+

@@ -1,9 +1,13 @@
-[[Fluids]] 
-[[Density]] 
-[[Pressure]] 
-	[[Gauge pressure]] 
-	[[Pascal's Principle]] 
-	[[Water pressure]] 
+**Links**
+- [[Fluids]] 
+- [[Density]] 
+- [[Pressure]] 
+	- [[Gauge pressure]] 
+	- [[Pascal's Principle]] 
+	- [[Water pressure]] 
+- [[Buoyancy]] 
+
+
 
 **Barometer**
 ![[Pressure - Barometer.png|200]]

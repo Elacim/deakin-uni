@@ -1,36 +1,16 @@
 **Links**
 - [[Exponents]] 
 - [[Simplifying exponents]] (good demonstration of the laws)
+- [[Roots]] 
+- [[Log Laws]]
 
-##### Multiplication
-Rule 1 :: $a_{m} \times a_{n} = a^{m+n}$
-
-##### Division
-Rule 2 :: $\frac{a_{m}}{a_{n}} = a^{m-n}$, only $a \neq 0$
-
-##### Brackets (multiplication)
-Rule 3 :: $(ab)^{n} = a^{n}b^{n}$
-
-##### Brackets (division)
-Rule 4 :: $(\frac{a}{b})^{n} = \frac{a^{n}}{b^{n}}$
-
-##### Brackets (external, multiplication)
-Rule 5 :: $(a^{m})^{n}= a^{mn}$ 
-Examples:
-- $(2^{3})^{2}= 2^{12}$
-- $(x^{2})^{3} = x^{6}$
-- $(2x^{3})^{2} = (2^{1})^{2}(x^{3})^{2} = 2^{2}x^{6}$
-
-
-##### Power identities
-Rule 6 :: $a^{0}$ if $a \neq 0$ AND $a^{1} = a$
-Examples:
-- $x^{0} = 1$
-- $3x^{0} = 3 \times 1 = 3$
-
-##### Negative indices and reciprocals
-Rule 7 :: $a^{-n} = \frac{1}{a^{n}}$ given $a \neq 0$
-Examples:
-- $4^{-2} = \frac{1}{4^{2}}$
-- $x^{-3} = \frac{1}{x^{3}}$
-Note the sign changes from negative to positive.
+| Description          | Rule                                          | Examples                                                                                                     |
+| -------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Multiplication       | $a^{m} \times a^{n} = a^{m+n}$                |                                                                                                              |
+| Division             | $\frac{a^{m}}{a^{n}} = a^{m-n}$<br>$a \neq 0$ |                                                                                                              |
+| (): Multiplication   | $(ab)^{n} = a^{n}b^{n}$                       |                                                                                                              |
+| (): Division         | $(\frac{a}{b})^{n} = \frac{a^{n}}{b^{n}}$     |                                                                                                              |
+| (): Multiplication 2 | $(a^{m})^{n}= a^{mn}$                         | - $(2^{3})^{2}= 2^{12}$<br>- $(x^{2})^{3} = x^{6}$<br>- $(2x^{3})^{2} = (2^{1})^{2}(x^{3})^{2} = 2^{2}x^{6}$ |
+| Power identities     | $a^{0}$ if $a \neq 0$ AND $a^{1} = a$         | - $x^{0} = 1$<br>- $3x^{0} = 3 \times 1 = 3$                                                                 |
+| Reciprocals          | $a^{-n} = \frac{1}{a^{n}}$ given $a \neq 0$   | - $4^{-2} = \frac{1}{4^{2}}$<br>- $x^{-3} = \frac{1}{x^{3}}$                                                 |
+| Fractional indices   |                                               |                                                                                                              |

@@ -1,5 +1,5 @@
 **Links**
-
+- [[6.1P#Task 3 Functions and relations]] 
 
 #### Domain
 **Finding domains**

@@ -1,7 +1,7 @@
 **Links**
 - [[Logarithms (log)]] 
 - [[Log Laws]]
-- [[Logarithm questions]]
+- [[Log questions - Misc.]]
 - [[Natural log, ln()]] 
 
 > https://betterexplained.com/articles/demystifying-the-natural-logarithm-ln/

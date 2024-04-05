@@ -1,12 +1,15 @@
 **Links**
 - [[Explaining logarithms]] 
 - [[Log Laws]]
-- [[Logarithm questions]]
+- [[Log questions - Misc.]]
 - [[Natural log, ln()]] 
 - [[Log resources]] 
 - [[Exponents]] 
+- [[Functions]] 
 
 **Logarithm** :: The exponent or power ($e$) to which a base ($b$) must be raised to yield a given number ($n$) -> $log_{b}(n)=e$
+**Domain** :: Logs with real number results cannot have negative inputs, so $x$ must be $> 0$ 
+**Range** :: Logs without parameters can range from $-\infty < y < \infty$
 
 Logs are inverse to... :: Exponentiation
 Natural way of communicating logs :: "the log, base $b$ of $n$"
@@ -15,6 +18,8 @@ $n/x$ = number
 $e$ = exponent
 $b$ = base
 -> $log_{base}(\text{some number n})=\text{exponent}$
+
+
 
 | Logarithm form     | Exponent form |
 | ------------------ | ------------- |
