@@ -6,6 +6,9 @@
 - [[Radians vs. Degrees]] 
 - [[Trigonometric identities]] 
 - [[Trigonometry questions]] 
+- [[Sum of angles - Triangle]] 
+- [[Pythagorean theorem]] 
+
 
 # - [[Trigonometric graphs]] 
 

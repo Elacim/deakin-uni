@@ -9,7 +9,6 @@ We want to be able to have $-12 + 12$, so we need to manipulate $x$ to get this.
 -> $-\frac{12}{9} \times 9 + 12 = 0$
 $x>- \frac{12}{9}$
 
-
 #### Range
 
 

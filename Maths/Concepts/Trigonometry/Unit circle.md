@@ -1,5 +1,6 @@
 **Links**
 - [[Trigonometry]] 
+- [[Unit circle - Quadrants]] 
 - [[Radians vs. Degrees]] 
 - [[SOH CAH TOA]] 
 - [[Scaling up triangles]] 
@@ -18,7 +19,7 @@ A [[Radians vs. Degrees|radian]] is the point where the bottom side, right side,
 | **Unit circle<br>coordinates** | $(1,0)$    | $(0.866,0.5)$   | $(0.707,0.707)$ | $(0.5,0.866)$   | $(0,1)$         | $(-1,0)$     | $(0,-1)$         | $(1,0)$      |
 | $\tan(\theta)$                 |            |                 |                 |                 | $\text{undef.}$ |              | $\text{undef.}$  |              |
 
-If the adjacent side is $0$ (i.e. $\cos(\theta)=0$, then $\tan(\theta)=\frac{x}{0} = \text{undefined}$ 
+If the adjacent side is $0$ (i.e. $\cos(\theta)=0$, then $\tan(\theta)=\frac{y}{0} = \text{undefined}$ 
 
 
 ![[Unit circle - Quadrants]] 

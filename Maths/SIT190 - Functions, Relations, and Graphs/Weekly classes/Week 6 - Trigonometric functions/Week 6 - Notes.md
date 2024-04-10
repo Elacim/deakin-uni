@@ -35,3 +35,44 @@ $n^{2} = \sum\limits \text{odd numbers to } n$
 
 Chord of an angle :: Line connecting two points of a circle separated by that angle
 -> $chord(\theta) = 2\sin (\frac{\theta}{2})$ per $7.5\degree$
+
+
+**How to find $\cos(\theta)$ when $\sin(\theta)$ is known**
+$\cos\left(\theta - \frac{\pi}{2}\right)= \sin(\theta)$
+Need $\sin^{2}(\theta) + \cos^{2}(\theta)=1$
+then [[Unit circle - Quadrants|CAST]] 
+
+**Finding $\cos(\frac{\pi}{4})$**
+[[Special (standard) triangles]] 
+
+**Finding length of a triangle's side when the other two lengths are known**
+Use the [[Pythagorean theorem]] 
+
+**Finding the last angle in a triangle given two other knowns**
+$\theta_{3} = 180 - \theta_{1} - \theta_{2}$
+
+**Finding $\sin(30\degree)$**
+[[Special (standard) triangles]], $1:\sqrt{3}:2$
+
+**Finding angles of a triangle with sides $4,4, 4\sqrt{2}$**
+[[Special (standard) triangles]] and similar triangles
+
+**Find the angle in a triangle when it's opposite = 4 and adjacent = 5**
+[[SOH CAH TOA]] - specifically $\tan(\theta) = \frac{4}{5}$
+
+**Finding the sign of $\cos(\theta)$ when $\theta$ is in the 3rd quadrant**
+[[Unit circle - Quadrants]] 
+The sign is negative.
+
+
+Angle $\theta$ satisfies $\sin(\theta) = \frac{-\sqrt{3}}{2}$ and $\cos(\theta)= \frac{1}{2}$
+Distance $d$ is the length of the hypotenuse
+
+$\cos(\theta) = \frac{1}{2}$
+-> $\theta = \arccos(\frac{1}{2})$
+$\theta = 60\degree$ 
+
+$d =\frac{2}{\cos(20 \times \frac{\pi}{180})}= 2.1283555450$
+
+
+[[Trigonometric identities#Questions]] 

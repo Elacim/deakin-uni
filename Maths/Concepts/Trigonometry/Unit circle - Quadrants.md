@@ -8,3 +8,5 @@
 | 2 - S    | Top left     | Only $+\sin$     |                    |
 | 3 - T    | Bottom left  | Only $+\tan$<br> |                    |
 | 4 - C    | Bottom right | Only $+\cos$<br> | $\frac{+x}{-y}=-z$ |
+
+# Questions
