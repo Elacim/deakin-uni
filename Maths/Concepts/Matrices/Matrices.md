@@ -1,7 +1,9 @@
 **Links**
-- [[3.1P#Task 2 - Matrices]] 
 - [[Inverse matrices]] 
 	- [[Determinant]] 
+- [[3.1P#Task 2 - Matrices]] 
+- [[Simultaneous equations]] 
+	- [[Matrices to solve simultaneous equations]] 
 
 
 https://www.mathsisfun.com/algebra/matrix-transform.html

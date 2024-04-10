@@ -4,7 +4,6 @@
 *-exclude.mp4
 *-exclude.zip
 
-
 **/.obsidian
 # Add exceptions with an exclamation point, like: 
 #   !not-a-textbook -exclude.pdf

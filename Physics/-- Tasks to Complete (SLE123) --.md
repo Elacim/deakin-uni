@@ -15,17 +15,6 @@
 **Kilian Shani** - **[kfraysse@deakin.edu.au](http://kfraysse@deakin.edu.au)** 
 
 # Week-specific reminders
-###### 1 (Feb 26th)
-
-###### 2 (March 4th)
-
-###### 3 (March 11th)
-
-###### 4 (March 18th)
-- First online quiz (5%) open Monday (10am), closes next Monday (11:59pm)
-	- Only numbers with two decimal places
-	- No gravity being negative
-###### 5 (March 25th)
 
 ###### Mid-trimester break (March 28th-April 3rd)
 
@@ -52,7 +41,17 @@
 
 
 ### Archived weeks
+###### 1 (Feb 26th)
 
+###### 2 (March 4th)
+
+###### 3 (March 11th)
+
+###### 4 (March 18th)
+- First online quiz (5%) open Monday (10am), closes next Monday (11:59pm)
+	- Only numbers with two decimal places
+	- No gravity being negative
+###### 5 (March 25th)
 
 
 

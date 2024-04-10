@@ -1,5 +1,6 @@
 **Links**
 - [[Linear equations]] 
+- [[Matrices to solve simultaneous equations]] 
 
 **Table of contents**
 	Solution types:

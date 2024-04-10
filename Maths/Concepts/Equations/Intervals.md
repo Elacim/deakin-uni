@@ -1,6 +1,7 @@
 **Links**
 - [[Inequalities]] 
 - [[Real numbers]] 
+- [[Set theory]] 
 
 An inclusive end of an interval is shown by $\geq$, $\leq$, and $[$ $]$ symbols.
 An exclusive is shown by $>$, $<$, and $($ $)$ symbols.
