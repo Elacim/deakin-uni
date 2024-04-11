@@ -4,7 +4,11 @@
 - [[SOH CAH TOA]] 
 
 Degrees to radians :: $\ce{degrees} \times \frac{\pi}{180} = \ce{radians}$
+-> $\frac{\ce{degrees} \times \pi}{180} = \ce{radians}$
+-> "$\text{degree} \times \pi$ over $180$"
 Radians to degrees :: $\ce{radians} \times \frac{180}{\pi} = \ce{degrees}$
+-> $\frac{\ce{radians}\times 180}{\pi} = \ce{degrees}$
+-> "$r \times 180$ over $\pi$ "
 
 | Degrees                | Radians                                        |     | Degrees       | Radians                                          |
 | ---------------------- | ---------------------------------------------- | --- | ------------- | ------------------------------------------------ |

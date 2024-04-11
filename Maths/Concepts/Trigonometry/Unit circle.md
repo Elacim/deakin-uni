@@ -8,6 +8,7 @@
 Formula :: $x^{2} + y^{2} = 1$
 
 A unit circle has a radius of $1$.
+[[Unit circle radians.png|Unit circle image]]
 A [[Radians vs. Degrees|radian]] is the point where the bottom side, right side, and the diagonal are all equal to $1$
 ![[Unit circle.png|200]]![[Unit Circle - sin over cos = tan.excalidraw|200]]
 
