@@ -1,5 +1,6 @@
 **Links**
 - [[SOH CAH TOA]]
+	- [[Inverse trig functions]] 
 - [[Special (standard) triangles]] 
 - [[Unit circle]] 
 	- [[Unit circle - Quadrants]] 

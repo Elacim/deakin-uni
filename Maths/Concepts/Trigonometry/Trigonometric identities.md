@@ -1,5 +1,6 @@
 **Links**
 - [[Trigonometry]] 
+- [[Inverse trig functions]] 
 
 #### Basic trigonometric (pythagorean) identity
 $(\cos \theta)^{2} + (\sin \theta)^{2} = 1$
