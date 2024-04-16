@@ -7,6 +7,9 @@ Density symbol :: Rho, or $\rho$
 Density formula :: $\rho = \frac{Mass}{Volume}$ $\ce{kg/m^{3}}$
 Density of water :: $\rho_{water} = \ce{1.0g/cm^{3}}$ or $1000\ce{kg/m^{3}}$
 
+**Conversions**
+$\ce{cm^{3}} \times 10^{-6} = \ce{m^{3}}$
+
 ![[Density table of misc. substances.png]]
 
 #### Questions

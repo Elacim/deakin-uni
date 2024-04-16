@@ -3,6 +3,7 @@
 - [[Week 8a - Notes#Photosynthesis - 8a, slide 16a onwards|Week 8a - Notes]]
 - [[Week 8b - Notes]]
 - [[Chloroplasts]]
+- [[Calvin Cycle]]
 
 Equation for photosynthesis :: $\ce{ 6CO2 + 6H2O -> 6O2 + C6H12O6 }$
 What is the purpose of photosynthesis? :: To produce the energy-dense and structurally strong glucose

@@ -8,6 +8,8 @@
 
 Why is it 'standing'? :: The wave itself doesn't travel, instead points in/on the medium oscillate, making the crests and troughs 'stand in place'
 
+![[Standing waves - pipes.png]]
+
 #### Nodes and antinodes
 In a standing wave, there are points that never move.
 These are known as nodes and are spaced $\frac{\lambda}{2}$ apart.

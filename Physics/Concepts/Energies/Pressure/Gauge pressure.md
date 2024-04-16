@@ -4,7 +4,7 @@
 - [[Density]] 
 
 ? :: The pressure by itself not including the atmospheric pressure
-Formula :: $\rho gd$ or $\rho g h$
+Formula :: $\ce{pascals} = \rho gd$ or $\rho g h$
 $\rho g h$/$\rho gd$ meaning :: Density ($\ce{kg/m^{3}}$) $\times$ Gravity ($\ce{m/s^{2}}$) $\times$ Height/Difference ($\ce{metres}$)
 
 $P_{gauge} = P_{abs} - P_{atm}$

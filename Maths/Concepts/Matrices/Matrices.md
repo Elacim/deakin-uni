@@ -2,11 +2,13 @@
 - [[Inverse matrices]] 
 	- [[Determinant]] 
 - [[3.1P#Task 2 - Matrices]] 
+- [[6.2HD#Task 2 Matrices]] 
 - [[Simultaneous equations]] 
 	- [[Matrices to solve simultaneous equations]] 
 
 
 https://www.mathsisfun.com/algebra/matrix-transform.html
+
 
 
 Matrix size :: $\ce{rows \times columns}$

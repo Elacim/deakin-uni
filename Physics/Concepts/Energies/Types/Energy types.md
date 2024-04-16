@@ -1,4 +1,5 @@
 **Links**
+- [[Energy transformations]] 
 ```dataview
 TABLE FROM #energies/info
 ```

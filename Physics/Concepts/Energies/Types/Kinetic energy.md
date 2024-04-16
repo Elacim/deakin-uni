@@ -6,6 +6,7 @@
 Kinetic energy ($K$) :: Energy of motion (scalar)
 
 Equation for kinetic energy without friction or drag :: $W = \Delta K = \frac{1}{2}m ( v_{f}^{2} - v_{i}^{2})$
+
 $K = \frac{1}{2}mv^{2}$
 
 

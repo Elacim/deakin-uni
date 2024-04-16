@@ -7,7 +7,7 @@ Elastic (spring) potential energy ($U_{s}$) :: Stored energy due to the deformat
 	Bow and arrow, slingshot, elastic band
 
 $k$ :: Spring constant ($N/m$), meaning it need $x(N)$ per metre
-Force: Formula for spring force (Hooke's Law) :: $F = -k \Delta x$
+Force: Formula for spring force (Hooke's Law) :: $F = -k \Delta x$  ($x$ is in $\ce{m}$)
 Energy: Elastic potential energy ($U_{s}$) :: $U_{s} = \frac{1}{2} k x^{2}$
 
 Elastic potential energy x($U_{s}$) gets transformed to [[Kinetic energy]] 

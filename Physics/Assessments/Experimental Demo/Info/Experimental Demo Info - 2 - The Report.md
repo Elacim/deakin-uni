@@ -22,7 +22,6 @@ The evidence is the scientific data used to support the claim. Evidence must be:
 - Qualitative, Quantitative, or a combination of both.
 
 **3.** What is the reasoning for your Experimental Demonstration?
-
  The reasoning ties together the claim and the evidence:  
 - Shows how or why the data count as evidence to support the claim.
 - Justifies why this evidence is important to this claim.
@@ -35,7 +34,6 @@ The evidence is the scientific data used to support the claim. Evidence must be:
 **6.** List the controlled variable(s) in your Experimental Demonstration. Also briefly explain why these are controlled variable(s).
 
 **7.** List the references (books and journal articles) used in preparing your report.  
-
 - The list of references must follow an accepted referencing style (such as the APA style).  
 -  [Deakin guide to APA7](https://moodle.deakincollege.edu.au/pluginfile.php/893422/mod_book/chapter/186513/Deakin-guide-to-APA7.pdf)       
 -  [Deakin quick guide to APA7](https://moodle.deakincollege.edu.au/pluginfile.php/893422/mod_book/chapter/186513/Deakin_Quick-guide-to-APA7.pdf)            
