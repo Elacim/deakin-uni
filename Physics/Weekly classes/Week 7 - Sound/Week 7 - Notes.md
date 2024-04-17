@@ -10,7 +10,7 @@ Elastic substance :: A material that can change shape in response to an applied 
 -> Any state of matter can transmit sound
 
 
-#### Pitch
+
 
 #### Ultrasound/ultrasonic
 [[Ultrasonic sound]] 

@@ -1,5 +1,9 @@
 **Links**
 - [[Waves]] 
+- [[Pitch]] 
+- [[Sound intensity and loudness]] 
+- [[Ultrasonic sound]] 
+- [[Standing waves]] 
 - [[Week 7 - Notes]] 
 
 Sound is simply pressure variations.

@@ -36,3 +36,8 @@ The sound intensity 0.25m away from a roaring lion is 0.250 w/m2. What is the so
 $\beta = 10\ce{dB} \times log_{10}(\frac{0.25}{1.0\times10^{-12}})$
 $\beta = 113.98 = 114$ decibels
 
+
+The intensity of a sound is $1.2 \times 10^{3}$ w/m$^{2}$. What is the intensity level of the sound in decibels?
+$\beta = (10 \ce{dB}) \times log_{10}(\frac{ 1.2 \times 10^{3} }{ 1.0 \times 10^{-12} })$
+$\beta = 10 \times 15.079$
+Decibels = 150.7918124605
