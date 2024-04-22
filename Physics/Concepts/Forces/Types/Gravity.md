@@ -2,6 +2,8 @@
 - [[Kinematics]] 
 - [[Kinematic equations]] 
 
+Gravity is always an attractive force, never repulsive.
+
 Gravity value on Earth :: $9.81\text{m/s}^{2}$
 
 Gravity value on the Lunar Menace :: $0.16g$
