@@ -27,6 +27,12 @@ A sound $10\times$ louder than $0$ bel is $1$ bell, or $10$ decibels (dB)
 | Rustling leaves     | $10^{-11}$ | $10$             |
 Loudness is different to intensity. The ear doesn't respons linearly but logarithmically. A double in sound intensity results in a only slightly perceptible increase in loudness.
 
+$\beta = (10 \ce{dB}) \times log_{10}(\frac{I}{ 1.0 \times 10^{-12} } )$
+-> $\ce{decibels} = 10 \times log_{10}(I) - log_{10}(1.0 \times 10^{-12})$
+-> $\ce{decibels} + log_{10}(1.0 \times 10^{-12}) = 10 \times log_{10}(I)$
+-> $\frac{\ce{decibels} + log_{10}(1.0 \times 10^{-12})}{10} = log_{10}(I)$
+$I = 10^{\frac{\ce{decibels} + log_{10}(1.0 \times 10^{-12})}{10}}$
+ 
 Decibels :: $\beta = (10 \ce{dB}) \times log_{10}(\frac{I}{I_{0}})$
 $I$ :: The intensity to be measured (watts/metre squared)
 $I_{0}$ :: Threshold of hearing ($1.0 \times 10^{-12}$)
@@ -35,7 +41,6 @@ The $log_{10}$ part gets it in bels
 The sound intensity 0.25m away from a roaring lion is 0.250 w/m2. What is the sound intensity level in decibels?
 $\beta = 10\ce{dB} \times log_{10}(\frac{0.25}{1.0\times10^{-12}})$
 $\beta = 113.98 = 114$ decibels
-
 
 The intensity of a sound is $1.2 \times 10^{3}$ w/m$^{2}$. What is the intensity level of the sound in decibels?
 $\beta = (10 \ce{dB}) \times log_{10}(\frac{ 1.2 \times 10^{3} }{ 1.0 \times 10^{-12} })$

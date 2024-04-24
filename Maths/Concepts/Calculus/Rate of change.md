@@ -6,7 +6,6 @@ $\frac{y_{2}-y_{1}}{x_{2}-x_{1}} = \frac{ f(x_{2}) - f(x_{1}) }{ x_{2} - x_{1} }
 = $\frac{ f(x_{1} + h) - f(x_{1}) }{ x_{1} + h - x_{1} }$
 = $\frac{ f(x_{1} + h) - f(x_{1}) }{ h  }$
 
-
 "As $h$ reaches a limit of $0$" or "as $h$ approaches $0$" 
 $\lim_{h\to0} = \frac{ f(x_{1} + h) - f(x_{1}) }{ h  }$
 

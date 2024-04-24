@@ -31,9 +31,9 @@ Receding observer :: $f_{+} = \left( 1 - \frac{v_{0}}{v} \right)f_{s}$
 **Fixed source, moving observer**
 A flautist plays a 300Hz tone on their flute and are essentially stationary. If you are driving 100km/h, or 27.8m/s, what is the frequency you hear from the instrument before and after you pass them?
 
-$f_{+} = \left( 1 + \frac{343}{27.8} \right)300$
+$f_{+} = \left( 1 + \frac{27.8}{343} \right)300$
 -> $324.32=324$ Hz
-$f_{+} = \left( 1 - \frac{343}{27.8} \right)300$
+$f_{+} = \left( 1 - \frac{27.8}{343} \right)300$
 -> $275.69=276$ Hz
 
 

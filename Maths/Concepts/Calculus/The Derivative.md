@@ -18,6 +18,7 @@ First principles/gradient-finding formula
 ?
 $f'(x) = \lim_{h\to0} \frac{ f(x + h) - f(x) }{ h  }$
 
+Alternative to the first principles formula :: The [[Power rule and co.]] 
 
 #### Applying the First Principles formula
 1. Find $f(x+h)$ by substituting $x$ with $x+h$ in the $f(x)$ equation.
