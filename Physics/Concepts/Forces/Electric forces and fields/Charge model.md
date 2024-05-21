@@ -1,5 +1,7 @@
 **Links**
-
+- [[Electric potential]] 
+- [[Electric field]] 
+- [[Electrostatic induction]] 
 
 An absence of electrons is a positive charge
 

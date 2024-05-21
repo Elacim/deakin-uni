@@ -9,7 +9,7 @@ Gravitational potential energy ($U_{g}$) :: Stored energy due to height in a gra
 Potential energy ($mg \Delta h$) = Kinetic energy ($\frac{1}{2}mv^{2}$)
 
 $W = \Delta U_{g} = mg \Delta h$
-$U_{g} = mgh$
+$U_{g} = mgh$ joules
 
 $m$ = mass
 $g$ = gravity

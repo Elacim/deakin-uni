@@ -13,6 +13,6 @@ Includes angular frequency and amplitude
 
 Period ($T$) :: Time for one cycle (in seconds)
 Frequency ($f$) :: Number of cycles per second (Hz, hertz)
-Wavelength ($\lambda$) :: Distance between peaks of a wave/troughs of a wave (in metres)
+Wavelength ($\lambda$) :: Distance between peaks of a wave/t`xroughs of a wave (in metres)
 Wave speed ($v$) :: Speed at which a particular wave type is propagated (velocity, $\ce{m/s^{2}}$)
 Amplitude ($A$) :: The height of the wave

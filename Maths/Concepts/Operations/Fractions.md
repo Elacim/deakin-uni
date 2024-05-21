@@ -1,4 +1,17 @@
 #operations/fractions
+
+**Links**
+- [[Derivatives of fractions]] 
+- [[Roots]] 
+#### Negative powers
+%% [[Exponent (Index) laws]] -> Reciprocals  %%
+
+| **Reciprocal law** | $a^{-n} = \frac{1}{a^{n}}$ given $a \neq 0$ | $-7x^{-3} = -\frac{7}{x^{3}}$ |
+| ------------------ | ------------------------------------------- | ----------------------------- |
+$- \frac{8}{x}$
+-> $- \frac{8}{x^{1}}$
+-> $-8x^{-1}$
+
 #### Addition / Subtraction
 $\frac{3}{4} + \frac{4}{3} = \frac{9}{12} \frac{16}{12} = \frac{25}{12}$
 

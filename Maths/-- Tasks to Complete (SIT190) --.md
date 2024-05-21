@@ -21,14 +21,14 @@ SORT file.name
 - [x] Week 6
 	- [x] Give it a go again 
 - [x] Ontrack catchup
-- [ ] Week 8
-	- [ ] Give it a go again
-- [ ] Week 9
-	- [ ] Give it a go again
-- [ ] Week 10
-	- [ ] Give it a go again
-- [ ] Week 11
-	- [ ] Give it a go again
+- [x] Week 8
+	- [x] Give it a go again
+- [x] Week 9
+	- [x] Give it a go again
+- [x] Week 10
+	- [x] Give it a go again
+- [x] Week 11
+	- [x] Give it a go again
 
 **Finished but not submitted (double checking)**
 ```dataview

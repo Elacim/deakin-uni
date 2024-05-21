@@ -9,3 +9,9 @@ There are infinite intersection points as said in the question, but what on eart
 
 [[6.1P]] 
 - Q3 was correct, just not simplified
+
+
+[[7.1P#3) Find the derivative of the following functions]]
+	Q3 b, $\cos$ part
+
+Sign test? [[7.2C#Sign test]] 

@@ -18,7 +18,6 @@ They maintain separation from the nucleus as they need space to travel as waves.
 Ionisation :: The removal of an electron from the cloud of an atom
 
 
-
 **Insulators**
 Charges do not move
 
@@ -30,3 +29,6 @@ These charges adjust until electrostatic equilibrium is reached, where there is 
 
 Biology related particles
 [[Class 8.pdf#page=25]]
+
+
+[[Coulomb's Law]] 

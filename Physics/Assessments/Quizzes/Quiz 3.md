@@ -10,6 +10,11 @@ X-ray
 ##### 3) The frequency of this wave is...
 ![[Quiz 3 - Q3.png]]
 
+$v = f \lambda$
+$1\ce{m/s}$ $= f\times 2\ce{m}$
+$\frac{1}{2} = f$
+$f = 0.5$Hz
+
 ##### 4) Light travels at 3.0 × 10^8 m/s. If the wavelength is 175 m, what is the frequency in Hz?
 $v = f\lambda$, $f = \frac{v}{\lambda}$
 $\frac{3.0 \times 10^{8}}{175\ce{m}} = 1,714,285.714$ Hz
@@ -63,11 +68,12 @@ $f_{+} = \left( 1 - \frac{v_{0}}{v} \right)f_{s}$
 $= \left(1- \frac{16}{343}\right)\times 2979\ce{Hz}$
 -> $0.950 \times 2979$
 $= 2831.35$ Hz
+
 ##### 12) The diagram on the right the shows the waves superimposed to produce the resultant wave. Describe the type of interference shown.
 ![[Quiz 3 - Q12.png]]
 Destructive interference. When superimposed, these two waves perfectly add together to equal zero at every point. e.g. at about x=450, wave 1 is at it's highest y-value at +1 whereas wave 2 is at it's lowest y-value, -1.
-+1 + -1 = 0
-
+e.g. +1 + -1 = 0; +0.432 + -0.432 = 0
+Assuming the waves are continuous, this destructive interference could theoretically go on forever. 
 
 ##### 13) Explain the difference between a **_Transverse wave and Longitudinal wave_** and give one example of each type of wave.
 %%
@@ -75,6 +81,9 @@ Destructive interference. When superimposed, these two waves perfectly add toget
 [[Transverse waves]] 
 %%
 These types of waves refer to the direction of particle and field propagation. 
-Transverse propagates particles perpendicular to the wave while longitudinal waves propagate particles in the same direction.
-All electromagnetic waves are transverse waves as they have an oscillating light wave with a perpendicular electric field.
-A sound wave is an example of a longitudinal wave as it compresses particles and leaves stretched regions.
+
+Transverse waves and longitudinal waves both travel in the same direction, the difference being that transverse waves oscillate perpendicularly to their direction of travel.
+
+A sound wave is an example of a longitudinal wave as it compresses particles and leaves stretched regions, which are characteristic of longitudinal waves.
+
+All electromagnetic waves are transverse waves as they have an oscillating light wave with an electric field oscillating perpendicular to it. Another example is ripples of water, where the water particles oscillates up and down perpendicular to the direction of travel (e.g. outwards)

@@ -1,5 +1,8 @@
 Acceleration is directly proportional to the net force.
 $\sum\limits \overrightarrow{F} = m\overrightarrow{a}$ - the little arrow means vector
+
+[[Coulomb's Law]] is used to calculate the forces on electric charges
+
 The sum of forces is equal to the mass and acceleration of an object
 SI: $\ce{1N = 1kg \times m/s^{2}}$
 U.S.A. $\ce{lb = slug \times ft/s^{2}}$

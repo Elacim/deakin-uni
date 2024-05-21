@@ -15,6 +15,9 @@ What exactly is heat? :: The vibration of particles
 
 Work units :: Joules, or $1N$/$m$
 
+What does $-$work represent? :: Work against a field
+How about $+$work? :: Work that happens by default, especially in regards to [[Electric potential]] 
+
 Work represents the energy transferred into or out of a system.
 Work can increase or decrease the energy of a system.
 $\Delta E = \text{sum of energies} = \text{work } (W)$

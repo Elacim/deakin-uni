@@ -35,6 +35,7 @@ $U_{g} = 88.29$ joules
 $K = \frac{1}{2}mv^{2}$
 -> $K= \frac{1}{2} * 1123\ce{kg} * 15\ce{m s^{-1}}$
 $K=8422.5$ joules
+Oops, don't forget to square the $15$
 
 ##### Q7) Determine the average power output (Watts) of the car having kinetic energy of 28195 J in 10 seconds.
 $\ce{power = \frac{work}{time} = \frac{energy}{time}}$

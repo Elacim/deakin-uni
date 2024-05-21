@@ -2,11 +2,6 @@
 - [[Operations]] 
 - [[Exponent (Index) laws]] 
 
-Roots can be taken like fractional exponents, where the desired root is the denominator and the numerator is 1 ($\ce{\frac{1}{root} }$), like this:
-$\sqrt[3]{5} = 5^\frac{1}{3}$ or $\sqrt[2]{88} = 88^{\frac{1}{2}}$
-
-Roots like $\frac{1}{\sqrt[]{x}}$ can be rewritten as $\frac{\sqrt[]{x}}{x}$
-
 **Table of contents**
 - [[#Root rules]]
 - [[#Root simplification examples (Distribution)]]
@@ -14,12 +9,24 @@ Roots like $\frac{1}{\sqrt[]{x}}$ can be rewritten as $\frac{\sqrt[]{x}}{x}$
 ### Root rules
 Read: https://www.mathwords.com/r/radical_rules.htm
 
-| Rule                    | Condition              | Example                      |
-| ----------------------- | ---------------------- | ---------------------------- |
-| $b=\sqrt[n]{a}$         | $b\geq0$ and $b^{n}=a$ | $\sqrt[3]{8}=2$ as $2^{3}=8$ |
-| $\sqrt[n]{a^{n}}=a$     | $n$ is odd             | $\sqrt[7]{-5^{7}}=-5$        |
-| $\sqrt[n]{a^{n}}=\|a\|$ | $n$ is even            | $\sqrt[4]{-5^{4}}=\|-5\|=5$  |
-| $\sqrt[n]{a^{n}}=a$     | $a \geq 0$             | $\sqrt[83]{\pi^{83}}=\pi$    |
+Roots can be taken like fractional exponents, where the desired root is the denominator and the numerator is 1 ($\ce{\frac{1}{root} }$), like this:
+$\sqrt[3]{5} = 5^\frac{1}{3}$ or $\sqrt[2]{88} = 88^{\frac{1}{2}}$
+
+Roots like $\frac{1}{\sqrt[]{x}}$ can be rewritten as $\frac{\sqrt[]{x}}{x}$
+
+Negative, fractional exponents like $x^{-\frac{3}{4}}$ fractional square roots:
+	$\frac{1}{\sqrt[4]{x^{3}}} = \frac{1}{ x^{\frac{3}{4}} }$
+
+| Rule                                                                         | Condition              | Example                                                                      |
+| ---------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------- |
+| $\sqrt[n]{a^{p}}=a^{\frac{p}{n}}$                                            |                        | $\sqrt[3]{5}=5^{\frac{1}{3}}$, $\sqrt{88^{5}}=88^{\frac{5}{2}}$              |
+| $\frac{1}{\sqrt{x}} = \frac{\sqrt{x}}{x}$                                    |                        | $\frac{1}{\sqrt{5}}=\frac{\sqrt{5}}{5}$, $\frac{1}{5}=\frac{5}{5^{2}}$       |
+| $x^{ -\frac{n}{d} } = \frac{1}{\sqrt[d]{x^{n}}} = \frac{1}{x^{\frac{n}{d}}}$ |                        | $x^{ -\frac{3}{4} } = \frac{1}{\sqrt[4]{x^{3}}} = \frac{1}{x^{\frac{3}{4}}}$ |
+|                                                                              |                        |                                                                              |
+| $b=\sqrt[n]{a}$                                                              | $b\geq0$ and $b^{n}=a$ | $\sqrt[3]{8}=2$ as $2^{3}=8$                                                 |
+| $\sqrt[n]{a^{n}}=a$                                                          | $n$ is odd             | $\sqrt[7]{-5^{7}}=-5$                                                        |
+| $\sqrt[n]{a^{n}}=\|a\|$                                                      | $n$ is even            | $\sqrt[4]{-5^{4}}=\|-5\|=5$                                                  |
+| $\sqrt[n]{a^{n}}=a$                                                          | $a \geq 0$             | $\sqrt[83]{\pi^{83}}=\pi$                                                    |
 
 | Distribution                                               |                                                                         Example                                                                         |
 | ---------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
