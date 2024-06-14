@@ -1,14 +1,19 @@
+#lenses/info/the-eye
 **Links**
 - [[The Eye]] 
 - [[Lenses]] 
-- [[Hyperopia]] 
+- [[Near and far point#Points|Near and far point]] 
+- [[Hyperopia (hypermetropic)]] 
 - [[Presbyopia]] 
 
 Common name :: Near-sightedness
+Etymology :: *to close eyes* from the Greek *myein + ōps*
 
 **Causes**
 - Genetics
 - Weak ciliary muscles
+- High refractive power meaning the rays converge too early
+- Long eyeball
 
 **Explanation**
 A person's far point is normally $\infty$. A near-sighted person has a lower far-point.

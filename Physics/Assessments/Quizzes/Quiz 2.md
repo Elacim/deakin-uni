@@ -38,7 +38,8 @@ $K=8422.5$ joules
 Oops, don't forget to square the $15$
 
 ##### Q7) Determine the average power output (Watts) of the car having kinetic energy of 28195 J in 10 seconds.
-$\ce{power = \frac{work}{time} = \frac{energy}{time}}$
+[[Work and heat (Energy transfer)]] 
+$\ce{power = \frac{work}{time} = \frac{energy}{time} = \frac{F \times d}{time}}$
 $\frac{28,195\ce{J}}{10\ce{s}} = 2819.5$ watts
 
 ##### Q8) A house has mass 15228 kg, which stands evenly on a slab that has dimension 22 m × 16 m. Calculate the pressure exerted on the ground in pascal.

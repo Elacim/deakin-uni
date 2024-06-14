@@ -1,15 +1,17 @@
 **Links**
 - [[Lens equations]] 
 - [[Lenses]] 
+
 #### Thin Lens Equation
 $\frac{1}{f} = \frac{1}{d_{o}} + \frac{1}{d_{i}}$ or $\frac{1}{f} = \frac{1}{p} + \frac{1}{q}$
+$d_{i} = \frac{fd_{o}}{d_{o} - f}$
 - $d_{o}$/$p$ is always positive
 - $f$ is positive for converging lenses and negative for diverging lenses
 - Convert to the same units for accurate solutions ($\ce{cm}$ is fine as long as all terms, including $f$ are in $\ce{cm}$)
 - $q$ can be negative if the image is virtual (formed on the same side as the object)
 
 ##### Example - Nearsightnedness
-[[Myopia]]
+[[Myopia (myopic)]]
 *Without her contact lenses, Dana cannot clearly see an object more than 40cm away. What refractive power should her contact lenses have to give her normal vision?*
 For an object at infinity, the corrective lens must form a virtual image 40cm from the eye 
 $q$ = -0.4m  (negative because the image is virtual)
@@ -24,7 +26,7 @@ The refractive power is therefore $\frac{1}{-0.4} = -2.5D$
 
 
 ##### Example - Farsightedness
-[[Hyperopia]]
+[[Hyperopia (hypermetropic)]]
 *Winifred is unable to focus on objects closer than 2.50 m from her eye. What $P$ should her lenses have?*
 Near point = 2.5 metres
 

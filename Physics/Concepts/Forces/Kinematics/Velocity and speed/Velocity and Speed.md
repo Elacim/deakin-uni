@@ -1,6 +1,6 @@
 #motion/components/info
 **Links**
-- [[Questions - Velocity and speed]] 
+- [[Velocity and Speed - Questions]] 
 - [[Kinematics]] 
 - [[Average velocity]] 
 

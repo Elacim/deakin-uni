@@ -1,4 +1,4 @@
-#lenses/info
+ #lenses/info
 **Links**
 - [[Lenses]] 
 - [[Diverging lenses]]

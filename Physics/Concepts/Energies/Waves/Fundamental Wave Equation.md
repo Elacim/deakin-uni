@@ -8,6 +8,10 @@ $f = \frac{1}{T}$
 $v = \frac{\lambda}{T}$
 $v = f \lambda$
 
+$\lambda = \frac{v}{f}$
+$f = \frac{v}{\lambda}$
+
+
 #### Characteristics
 Includes angular frequency and amplitude
 
@@ -15,4 +19,4 @@ Period ($T$) :: Time for one cycle (in seconds)
 Frequency ($f$) :: Number of cycles per second (Hz, hertz)
 Wavelength ($\lambda$) :: Distance between peaks of a wave/t`xroughs of a wave (in metres)
 Wave speed ($v$) :: Speed at which a particular wave type is propagated (velocity, $\ce{m/s^{2}}$)
-Amplitude ($A$) :: The height of the wave
+Amplitude ($A$) :: The height of half the wave 

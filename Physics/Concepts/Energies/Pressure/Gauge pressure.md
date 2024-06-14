@@ -7,6 +7,9 @@
 Formula :: $\ce{pascals} = \rho gd$ or $\rho g h$
 $\rho g h$/$\rho gd$ meaning :: Density ($\ce{kg/m^{3}}$) $\times$ Gravity ($\ce{m/s^{2}}$) $\times$ Height/Difference ($\ce{metres}$)
 
+$1\ce{mmHg} = 133.3224 \ce{Pa}$
+$\ce{1atm = 760mmHg}$
+
 $P_{gauge} = P_{abs} - P_{atm}$
 Absolute pressure :: $P = P_{gauge} + P_{atm}$
 
@@ -28,6 +31,11 @@ $\rho g d$
 How about the absolute pressure?
 $P = P_{gauge} + P_{atm}$
 -> $-32kPa + 101kPa = 69kPa$
+
+
+**Finding the height**
+$P_{atm} = \rho g h$
+-> $h = \frac{P_{atm}}{\rho g}$
 
 
 

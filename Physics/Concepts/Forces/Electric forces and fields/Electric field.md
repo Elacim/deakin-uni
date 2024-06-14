@@ -1,6 +1,7 @@
 **Links**
 - [[Coulomb's Law]] 
 - [[Charge model]] 
+- [[Electric equations]] 
 
 ? :: The space around a charge; a region of influence. The electric force per unit charge on a point charge at that point.
 What is $\overrightarrow{E}$? :: A vector at every point in space that describes the force applied to a positive charge (if the charge exists) 
@@ -15,9 +16,6 @@ The force
 
 A positive charge will go with the electric field and a negative against.
 ![[Electric field - + and - directions.png]]
-
-
-$\overrightarrow{test}$
 
 $E = \ce{\frac{force}{charge} = \frac{F}{q}}$
 

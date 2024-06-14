@@ -2,6 +2,7 @@
 **Links**
 - [[Kinematics]] 
 - [[Vector]] 
+- [[Acceleration - Questions]] 
 
 
 Change in velocity divided by the change in time
@@ -9,12 +10,17 @@ Change in velocity divided by the change in time
 - $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{t_{f} - t_{i}}$ 
 - $\Delta v = a \times \Delta t$
 - $\Delta t = \frac{\Delta v}{a}$
+![[Kinematic equations#Acceleration variations]] 
 
 When acceleration and velocity are in the same direction = speeding up
 Acceleration and velocity in the opposite = slowing down
 
+
+
+
 ![[Acceleration graph - slope explanation.png]]
 
+# Questions
 Sprinter starts from rest, accelerates at 5m/s
 How fast after:
 	2 seconds?: $v = 5 \times 2 = 10$m/s

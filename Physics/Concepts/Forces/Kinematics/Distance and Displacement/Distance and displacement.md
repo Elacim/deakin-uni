@@ -1,7 +1,9 @@
 #motion/components/info
 **Links**
 - [[Kinematics]] 
-- [[Questions - Distance and displacement]] 
+- [[Distance and displacement - Questions]] 
+
+$\text{disp} = \sqrt{(\text{side}_{1})^{2}+ (\text{side}_{2})^{2}}$
 
 ##### Distance
 - Length of a path between two points

@@ -18,7 +18,8 @@ $\frac{x_{f} - x_{i}}{t_{f} - t_{i}}$
 
 
 ##### Q2 - A train can accelerate from rest to 5 m s-1 in 2 seconds. What is the acceleration of the train in m s-2?
-
+$a = \frac{d}{t}$
+$\frac{5}{2} = 2.5$$\ce{m/s^{2}}$
 
 ##### Q3 - What is the correct unit for the magnitude (size) of force?
 $\ce{kg ms^{-2}}$
@@ -38,7 +39,7 @@ $300N = 7\ce{kg} \times a$
 -> $\frac{300}{7} = 42.86$ $\ce{m/s^{2}}$
 
 
-##### Q6 - Airplane shruosh
+##### Q6 - Aeroplane acceleration given two forces
 The pilot of a cruising Airplane increases the force of its engines by $79,127N$ to push the plane forward; whilst the combined wind and air friction force in the opposite direction are $35,512 N$.
 The plane has a mass of $209,677$ kg
 Determine the magnitude of the resulting acceleration(m  s-2) of the airplane.
@@ -49,21 +50,21 @@ $\ce{Net force} = 79127 - 35512 = 43,615N$
 -> $a = 0.208$ $\ce{m/s^{2}}$
 
 
-###### Q7 - Aeroplane velocity after 4 minutes
+##### Q7 - Aeroplane velocity after 4 minutes
 If the initial velocity of the plane is 225 m s-1 and acceleration is 3.4 m s-2, what will be its velocity(m s-1) after 4 minute?
 
 Knowns: 
 - vi = 225
 - a = 3.4 $\ce{m/s^{2}}$
-- t = 4 minutes = 360s
+- t = 4 minutes = 240s
 Unknown:
 - vf = ?
 
 $v_{f} = v_{i} + at$
--> $v_{f} = 225 + 3.4(360)$
--> $v_{f} = 1449$$\ce{m/s^{-1}}$
+-> $v_{f} = 225 + 3.4(240)$
+-> $v_{f} = 1041$$\ce{m/s^{-1}}$
 
-##### Q8 - Aeroplane distance
+##### Q8 - Aeroplane distance after 21 seconds
 If the initial velocity of the plane is 238 m s-1 and acceleration is 0.5 m s-2, how far(in metres) will it have travelled after 21 seconds?
 
 Knowns:
@@ -89,7 +90,7 @@ Rubber block: $F = 1.9\ce{kg} \times 9.8$
 $f_{s} = 18.62 * 1.6 = 29.792N$
 
 
-##### Q10 - Car acceleration
+##### Q10 - Car acceleration net force
 A 1164 kg car can accelerate with 6 m s-2. What is the net force(N) on the car?
 $F = ma$
 -> $1164 * 6$
@@ -120,6 +121,8 @@ A car slows at a constant acceleration (decelerates) from 18 m s-1 to 0 m s-1 in
 $a = \frac{\Delta v}{\Delta t} = \frac{v_{f} - v_{i}}{t_{f} - t_{i}}$ 
 
 $\frac{0-18}{7-0} = -2.57$$\ce{m s^{2}}$
+
+As deceleration implies negative, it is decelerating by $2.57\ce{m s^{2}}$
 
 
 ##### Q13 - Explain the difference between **scalar** and **vector** quantities. Give one example for each.

@@ -2,13 +2,11 @@
 - [[Charge model]] 
 - [[Week 8 - Notes]] 
 
-? :: The force between two charges ($q_{1}$ and $q_{2}$) at a distance of $r$
 Formula :: $F = K \frac{q_{1}q_{2}}{r^{2}}$
-- Is an inverse square law
+Electrostatic constant :: $K = 9 \times 10^{9}$ $\ce{ N m^{2}/C^{2}}$
+What does it calculate? :: The force between two charges ($q_{1}$ and $q_{2}$) at a distance of $r$
 
-Electrostatic constant :: $K = 9 \times 10^{9} N \times m^{2}/C^{2}$
-
-Much like [[Gravity|gravity]], it works long-range. Unlike gravity though, it can be positive or negative.
+Much like [[Gravity|gravity]], it works long-range. Unlike gravity though, it can be attractive or repulsive.
 
 **Which of these right hand charges ($q, 2q,$ or $4q$) experience the largest force?**
 ![[Coulomb's Law - force comparisons.png]]

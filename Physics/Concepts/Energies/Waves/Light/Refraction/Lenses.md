@@ -1,4 +1,4 @@
-#light/lenses #lenses
+#light/laws/refraction/lenses #lenses
 **Links**
 - [[Converging lenses]] 
 - [[Diverging lenses]] 
@@ -7,6 +7,7 @@
 - [[Law of Refraction]] 
 	- [[Law of Refraction#Snell's law of refraction|Snell's Law of Refraction]]
 - [[Law of Reflection]] 
+- [[Thin Lens Equation]] 
 
 **Information**
 ```dataview
@@ -31,5 +32,5 @@ Thick lenses cause the focal point to be closer, therefore increasing the power 
 
 ![[Lenses - Converging vs. Diverging.png]]
 
-![[Lenses - Convex and Concave.jpg]]
+![[Lenses - Convex and Concave.jpg|300]]
 

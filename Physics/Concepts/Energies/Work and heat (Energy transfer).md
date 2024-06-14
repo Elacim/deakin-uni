@@ -22,7 +22,9 @@ Work represents the energy transferred into or out of a system.
 Work can increase or decrease the energy of a system.
 $\Delta E = \text{sum of energies} = \text{work } (W)$
 Force is in the direction of displacement, which means positive work, the formula being:
-	$W \times F \times d$, or $\ce{work = force \times distance}$
+	$W = F \times d$, or $\ce{work = force \times distance}$
+
+$\ce{power = \frac{work}{time} = \frac{energy}{time} = \frac{F \times d}{time}}$ (watts, 1 joule/second)
 
 ###### Examples of work
 - An athlete doing work on a shotput, giving it kinetic energy

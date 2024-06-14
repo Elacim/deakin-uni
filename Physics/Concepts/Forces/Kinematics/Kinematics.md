@@ -1,4 +1,5 @@
 **Links**
+- [[Kinematic equations]] 
 ```dataview
 LIST FROM #motion/components/info
 ```
@@ -7,3 +8,6 @@ LIST FROM #motion/components/info
 ```dataview
 LIST FROM #motion/questions
 ```
+ 
+ ![[Motion questions]] 
+

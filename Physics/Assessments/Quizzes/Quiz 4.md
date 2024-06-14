@@ -53,8 +53,8 @@ d. the mass of the two objects
 
 ### Q7) The diagram shows equipotential lines due to two objects. The two objects could be...
 ![[Quiz 4 - Q7.png|200]]
-a. electric charges of the opposite sign only  
-**b. electric charges of the same sign only**  
+**a. electric charges of the opposite sign only** - [[Equipotential lines and field lines]] 
+b. electric charges of the same sign only  
 c. electric charges of same masses  
 d. electric charges of same momentum
 
