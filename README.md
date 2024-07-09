@@ -1,1 +1,0 @@
-Our journey with Deakin University.
