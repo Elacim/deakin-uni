@@ -1,0 +1,67 @@
+A agouti (tabbying)
+a non-agouti (solid colour in non-orange)
+
+
+
+Station 2
+C (full colour) - normal enzyme
+Cb (burmese dilution) - less active enzyme
+Cs (siamese dilution) - temperature dependent enzyme
+
+
+Station 3
+B/b code for protein framework affecting density of pigment packing
+B -> black granules - dense packing
+b -> brown granules - less dense packing
+Bb/BB -> black
+
+
+Station 1
+S -> white spotting - incomplete melanocyte migration
+s -> no white spotting - complete migration
+Ss - some white spotting
+SS - extensive white spotting
+
+
+Station 6
+Tm -> mackerel/parallel stripes - dominant over tb/blotched
+tb -> blotched stripes - present only when homozygous recessive (tb tb)
+
+TA -> abyssinian stripes
+
+
+Station 8
+I -> inhibition of pigment
+i -> full pigment
+A black cat that is aa does not reveal it's tabby striping
+
+
+Station 5
+X-linked
+O+ -> non-orange
+Oo -> phaeomelanin pigment -> orange
+O+ O+ = non-orange, colour determined by other genes
+O+ Oo = tortie/tortoiseshell - occurs due to X inactivation
+Oo Oo = orange
+
+O+ Y = non-orange
+Oo Y = orange
+
+
+Station 9
+W -> all-white
+w -> non-white or not all-white
+WW/Ww = white cat, dominant epistatis over all other coat colour/pattern genes
+
+
+Station 4
+Distribution of pigment granules in hair
+D -> intense colour - uniform distribution
+d -> dilute colour - uneven distribution
+
+DD/Dd = intense / non-dilute
+
+Non-dilute (DD/Dd)     Dilute (dd)
+Black/seal          -> blue/gray
+Brown/chocolate     -> lavendar/lilac
+Orange/red/yellow   -> cream 

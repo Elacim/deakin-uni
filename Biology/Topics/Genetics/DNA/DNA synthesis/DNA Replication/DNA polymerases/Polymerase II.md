@@ -1,0 +1,1 @@
+ DNA polymerase II is a minor enzyme involved in DNA repair  It has a 5' to 3' polymerase activity and a 3' to 5' exonuclease function

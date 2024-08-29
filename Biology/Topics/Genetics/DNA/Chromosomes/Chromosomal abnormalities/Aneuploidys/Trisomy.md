@@ -1,0 +1,3 @@
+  Autosomal trisomy is relatively common  Most result in spontaneous abortion  Four types can result in live births (8, 13, 18, 21)
+![[Trisomy - Percentages of trisomies by chromosome.png]]
+ Most autosomal trisomies are lethal.  Up to 50% of chromosomal abnormalities in miscarriages  Trisomies for chromosomes 1,3, 12 and 19 are rare  Trisomy 16 – about 30% of all cases.  Not clear why  Only trisomy 8, 13, 18 and 21 allow live births  Only trisomy 21 s

@@ -1,47 +1,4 @@
 #flashcards/weeks/week-4
-
-# Cell cycle
-https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/cell-cycle/a/cell-cycle-phases
-Cell life cycle :: Interphase: $G_1$, $S$, $G_{2}$, and the mitotic phase $M$
-
-$G_1$ phase :: 1/4 phases in the cell cycle. Interphase starts. Growth/gap 1 phase involves growing physically larger, organelle duplication, and the synthesis of proteins and mRNA necessary for DNA synthesis
-
-$S$ phase :: 2/4 phases in the cell cycle. DNA is copied 1:1 within the [[Nucleus]] and centrosomes are duplicated
-
-$G_2$ phase :: 3/4 phases in the cell cycle. Growth/gap 2 phase. The cell grows further, it synthesises proteins and organelles, and its contents are shifted around to suit mitosis ($M$ phase)
-
-$M$ phase :: 4/4 phases in the cell cycle. End of interphase, begin mitotic phase (mitosis and cytokinesis). DNA copied in $S$ phase and contents grown over interphase is split. Comprised of I-PpMATc (prophase, prometaphase, metaphase, anaphase, telophase, and cytokinesis)
-
-
-# Cell division
-Basic overview of cell division :: Replication (genome is replicated and condensed into chromosomes); Division (genome is divided into daughter cells, mitosis); Cytokinesis (cell body and structures split evenly between daughter cells)
-## I-PpMATc
-[Source - Khan Academy](https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/cell-cycle/a/phases-of-mitosis)and the week 4 slideshow
-I-PpMATc :: Interphase; Prophase; Prometaphase; Metaphase; Anaphase; Telophase and Cytokinesis
-
-Mitotic spindle :: Strong fibres comprised of microtubules made of tubulin that form in early prophase. It organises and moves chromosomes during mitosis. It grows between centrosomes as they move to their cellular poles.
-
-### Interphase
-What stages of the cell cycle does Interphase consist of? :: $G_1$, $S$, and $G_2$
-
-### Prophase
-Prophase overview :: Nucleolus breaks down (ribosome factory); chromosomes start condensing; mitotic spindle begins to form
-Do chromosomes appear in prophase? :: Somewhat. They start to appear, known as condensing, but are not finished until prometaphase.
-At what stage is the mitotic spindle in? :: Formation. It is connected to the centrioles and has not yet attached to the chromosomes.
-
-### Prometaphase/Late prophase
-Prometaphase/Late prophase overview :: Chromosomes are further condensed; Nuclear envelope ([[Nucleus]]) fully breaks down; mitotic spindles grow further and 'capture' some chromosomes; kinetochore proteins are formed on the centromere
-
-### Metaphase
-Metaphase overview :: Chromosomes align in the middle (metaphase plate); kinetochores are attached to mitotic spindle
-
-### Anaphase
-Anaphase overview :: Sister chromatids are pulled apart to opposite poles of the cell; mitotic spindle pushes poles apart (opposite poles with chromosomes will turn into)
-
-### Telophase and Cytokinesis
-Telophase/Cytokinesis overview :: Two daughter cells have formed; mitotic spindle dissipates; cellular material (cytoplasm, organelles etc.) are shared; nucleolus and nuclear envelope are reformed; in animal cells, cleavage furrow breaks off while in plants, a cell plate made of cellulose splits into new cells
-
-
 ## Cell regulation
 In cell stages, what checkpoint names? :: $G_{1}, G_{2}, \text{and } M$ (spindle checkpoint from metaphase-anaphase) [Source - Khan Academy](https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/regulation-of-cell-cycle/a/cell-cycle-checkpoints-article)
 How do cell checkpoints generally work? :: Internal and external cues (e.g. DNA damage or not enough resources) trigger signalling pathways, activating or inactivating a set of core proteins that move the cell cycle forward

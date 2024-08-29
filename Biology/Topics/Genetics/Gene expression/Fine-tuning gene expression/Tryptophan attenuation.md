@@ -1,0 +1,4 @@
+- Is a way to control gene expression using the trp RNA as it is being transcribed. 
+- Note that transcription and translation occurs at the same time 
+- Even when trp is present it transcribes but terminates- why? 
+- The leader sequence!! Codes for regulatory RNA that forms regulatory loops

@@ -94,7 +94,7 @@ Carriers :: Heterozygous individuals who carry the recessive allele but are phen
 Cystic Fibrosis
 Sickle-cell disease (slide 3b)
 
-If a trait skips a generation in a pedigree, it must be a {{recessive}} trait :: Recessive tratit.
+If a trait skips a generation in a pedigree, it must be a {{recessive}} trait :: Recessive trait.
 If both parents have the trait, {{all}} offspring will have the trait :: All offspring will have the trait.
 If an equal number of females:males are affected, it is likely {{autosomal}} {{recessive}} :: Autosomal recessive
 If a lot more males have a trait than girls, and it is a recessive trait, it is likely that the trait is {{X-linked}} {{recessive}} :: X-linked recessive

@@ -1,7 +1,7 @@
 **Links**
 - [[Photorespiration plant types]]
-- [[Week 8a - Notes#Photosynthesis - 8a, slide 16a onwards|Week 8a - Notes]]
-- [[Week 8b - Notes]]
+- [[Week 8a - Notes - SLE132#Photosynthesis - 8a, slide 16a onwards|Week 8a - Notes]]
+- [[Week 8b - Notes - SLE132]]
 - [[Chloroplasts]]
 - [[Calvin Cycle]]
 

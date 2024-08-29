@@ -1,0 +1,1 @@
+ Autosomal monosomy is a lethal condition  Eliminated early in development (spontaneous abortion)

@@ -1,0 +1,5 @@
+- Made in the nucleus
+	- Exported via nuclear pores 
+- Participates in translation (protein production)
+- Can exist in cytoplasm/bound to ER
+- Cells w/ high rate of protein synthesis will tend to contain many ribosomes

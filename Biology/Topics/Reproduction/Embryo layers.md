@@ -3,7 +3,7 @@
 **Links**
 - [[Embryonic Development (animals)]]
 - [[Fertilisation]]
-- [[SLE132 - Form & Function/Week 2 - Animal Tissues and Animal Development/Week 2 - Notes#Notes - Embryo layers|Week 2 - Notes]]
+- [[Week 2 - Notes - SLE132#Notes - Embryo layers|Week 2 - Notes]]
 
 #### Embryo layers image, chart (ecto meso endo)
 ![[Embryo layers.png]]

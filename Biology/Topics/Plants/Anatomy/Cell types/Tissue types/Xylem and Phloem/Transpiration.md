@@ -2,7 +2,7 @@
 - [[Stomata]]
 - [[Xylem]]
 
-[[Week 9b - Notes]]
+[[Week 9b - Notes - SLE132]]
 Transpiration :: The evaporation of water from leaves/roots/flowers
 What is the main factor in the rate of transpiration? :: The stomata opening and closing
 
@@ -19,9 +19,9 @@ Rate of transpiration is directly affected by closing/opening of stomata
 Increase in $CO_{2}$: stomata close, decrease: open
 Increase in light: stomata open, decrease close
 Temperature: 10-25C: little effect, high temps: stomata cloes
-	low temps? #question
+	low temps?
 Low water (water stress/high transpiration): stomata close 
-CAM plants open stomata ?? #question
+CAM plants open stomata ??
 Hormones (Abscisic acid (ABA)) increase = close
 Biological clock
 

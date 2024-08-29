@@ -1,5 +1,5 @@
 **Links**
-- [[Week 8a - Notes#Pigments]]
+- [[Week 8a - Notes - SLE132#Pigments]]
 
 Chlorophyll pigment colour(s) :: Green
 	Different pigments on slide 21a (not assessable)

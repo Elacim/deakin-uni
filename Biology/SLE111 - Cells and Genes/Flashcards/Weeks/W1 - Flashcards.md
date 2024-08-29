@@ -1,7 +1,7 @@
 #flashcards/weeks/week-1
 
 ### Classification 
-[[Hierarchy of Biological Organisation]] :: Biosphere, Ecosystem, Communities, Population, Multicelluar organisms, Organ systems, Organs, Tissue, Cell, [[-- Structures overview --]], Molecules, [[Atoms]] *(beck-ah-p'moot-coh-mah)*
+[[Hierarchy of Biological Organisation]] :: Biosphere, Ecosystem, Communities, Population, Multicelluar organisms, Organ systems, Organs, Tissue, Cell, [[Organelles]], Molecules, [[Atoms]] *(beck-ah-p'moot-coh-mah)*
 <!--SR:!2023-08-01,3,251-->
 
 DKPCOFGS :: Domain; Kingdom; Phylum; Class; Order; Family; Genus; Species *(dee-kay-pe-cough-geh-za)*
@@ -253,14 +253,10 @@ What is the purpose of mRNA? ::
 <!--SR:!2023-08-02,4,271-->
 
 ##### Chromosome
-Histones :: A major protein component of histones that binds DNA into tight bundles
-<!--SR:!2023-08-02,4,271-->
+Histones :: A major protein component of nucleosomes that binds DNA into tight bundles
 Chromatin :: Fibrous strands that form a complex of histones bound together with chromatin fibres (DNA strands)
-<!--SR:!2023-08-13,15,250-->
 Nucleosomes :: 8 histones bound together with chromatin fibres (DNA strands known linking DNA)
-<!--SR:!2023-08-01,3,251-->
 Chromosomes :: Tightly packed structures comprised of nucleosomes (histones connected by chromatin) 
-<!--SR:!2023-07-31,2,230-->
 
 Chromosomes in human genome :: Humans have 22 pairs of non-sex chromosomes (autosomes) and 1 pair of sex chromosomes for a total of 23 pairs of chromosomes (46 individual chromosomes) [Source - Khan Academy ('*Chromosomes*')](https://www.khanacademy.org/science/ap-biology/cell-communication-and-cell-cycle/cell-cycle/a/dna-and-chromosomes-article)
 <!--SR:!2023-08-02,4,271-->

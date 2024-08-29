@@ -20,6 +20,6 @@ Eukaryotes presumed to have evolved when the plasma membrane folded in on itself
 
 Both prokaryotes and eukaryotes contain:
 	- Nucleic acids (hereditary material)
-	- [[-- Structures overview --#Ribosomes|Ribosomes]] (translate genetic info to proteins)
+	- [[Organelles#Ribosomes|Ribosomes]] (translate genetic info to proteins)
 	- Cell/plasma membrane (isolate cell from ext. environment)
 

@@ -6,7 +6,7 @@ Microtubules
 	- Hollow tubes made of tubulin
 	- Important for
 		- Cell shape
-		- [[-- Structures overview --|Organelle]] movement
+		- [[Organelles|Organelle]] movement
 		- Mitotic spindle formation
 	- e.g. Cilia and flagella
 Intermediate filaments

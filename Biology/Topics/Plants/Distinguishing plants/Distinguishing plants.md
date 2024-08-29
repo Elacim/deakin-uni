@@ -1,5 +1,5 @@
 **Links**
-- [[Week 7 - Intro to plants]]
+- [[Week 7 - Intro to plants - SLE132]]
 - [[Gymnosperms]]
 - [[Bryophytes]]
 - [[Seedless vascular plants]]

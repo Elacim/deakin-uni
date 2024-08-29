@@ -1,0 +1,1 @@
+? :: A molecule/substance that binds to a macromolecule such as a protein.

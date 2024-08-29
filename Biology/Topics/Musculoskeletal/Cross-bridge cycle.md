@@ -4,7 +4,7 @@
 - [[Skeletal muscle structure]]
 - [[Muscle contraction]]
 - [[Sarcomeres]]
-[[Week 6 - Notes]]
+[[Week 6 - Notes - SLE132]]
 
 https://www.youtube.com/watch?v=sIH8uOg8ddw&list=PLA_eIfVdLsxZBMNABupk3DGYYzwc5gfDx&index=4
 

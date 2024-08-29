@@ -1,7 +1,7 @@
 **Links**
 - [[Transpiration]]
 - [[Abscisic acid]]
-- [[Week 9b - Notes]]
+- [[Week 9b - Notes - SLE132]]
 
 What is the deciding factor in closing/opening stomata? :: The levels of $\ce{CO2}$ and water
 

@@ -27,7 +27,7 @@ Air has less water than leaf tissue (water from leaf -> air)
 Cohesion-adhesion theory
 	Water is cohesive (lagging molecules will follow leading)
 	Water adheres to xylem walls, counteracting gravity
-	#question zero-grav on plants, does this make trees not work?
+	zero-grav on plants, does this make trees not work?
 Water potential 
 
 What is a requirement for water pull? :: The water potential in the roots needs to be lower than the soil

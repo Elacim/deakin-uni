@@ -1,0 +1,8 @@
+- Primarily storage
+	- Seed nutrients
+	- Flower pigments
+	- Toxic metabolic waste product
+	- Chemical defences/poisons
+- Growth
+	- Expansion reduces cytoplasm volume
+		- Allows plant cells to grow

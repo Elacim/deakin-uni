@@ -51,10 +51,7 @@ What is the expression of a gene? :: The transcription and translation of a codi
 
 Enzyme explanations - slide 14a
 What does polymerase do? :: 
-Primase :: Synthesises a single RNA primer at the 5' end of a leading strand using the parental DNA as a template. It indicates that the DNA is ready to have the complementary DNA strand built
-Ligase :: Glue
-Helicase :: Unhelixes DNA at replication forks
-Topoisomerase :: Breaks, swivels, and rejoins the parental DNA ahead of the replication fork. Like a broken zipper that fixes itself when DNA is ready to continue unwinding
+[[Proteins and Enzymes in genetics]]
 
 Leading strand - DNA polymerases can only add nucleotides to the 3' end of a strand
 	- DNA polymerase III can synthesise a complementary strand continuously
@@ -63,18 +60,11 @@ Elongating the lagging strand - DNA polymerase III works in the direction away f
 	- fragments called Okazaki fragments
 		- joined by DNA ligase
 
-**Lagging strand synthesis** 
-We need to wait until DNA 
-1. Primase lays down RNA primer
-2. DNA pol III adds nucleotides to Okazaki fragment
-3. DNA pol III detaches once finished each fragment
-4. DNA pol III continues to elongate individual Okazaki fragments
-5. DNA pol I removes the RNA primer and replaces it with DNA nucleotides
-6. What enzyme binds Okazaki fragments? :: DNA ligase
+[[Lagging strand synthesis]]
 
 Polymerase I - removes primers & replaces w/ DNA nucleotides
 Polymerase III - recruits new nucleotides to the growing strand
-DNA ligase - joins Okazaki fragments, replication bubbles, and glues excision repairs
+[[Ligase]]
 
 Can DNA polymerases initiate the synthesis of a polynucleotide? :: No. They can only add nucleotides to the 3' end (there must be a $OH$ group too)
 What end of a DNA strand does DNA polymerase III add to? :: The 3' prime end
@@ -174,15 +164,10 @@ What happens in RNA processing?
 
 ## Translation
 With what type of RNA is protein translated? :: tRNA (transfer RNA)
-Anticodon :: A tri-nucleotide sequence that is complementary to a codon within mRNA
-What does a transfer RNA carry? :: An anticodon
+
+
 SLIDE 5a
-Purpose of tRNA
-?
-- molecular interpreter
-- carries amino acids
-- Matches amino acids with mRNA codons using anticodons
-- Molecules of tRNA are not all identical
+
 
 What cell structure makes polypeptides? :: Ribosomes
 What are the components of ribosomes? :: The small and large subunits

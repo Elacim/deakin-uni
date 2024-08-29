@@ -1,0 +1,9 @@
+- Region between nucleus and  plasma membrane
+- bulk of most cells
+- mainly water and dissolved salts
+- Contains
+	- proteins (shuttling molecules between organelles)
+	- Enzymes (breaking down/synthesising cytoplasmic molecules)
+	- Enzymes (signalling)
+	- Cytoplasmic molecules building blocks (e.g. amino acids, glucose)
+	- Nucleic acids (e.g. tRNA)

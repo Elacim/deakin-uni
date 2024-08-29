@@ -8,4 +8,4 @@ Animals:
 	- Lysosomes (vesicles of many things)
 	- Motility (movement)
 
-All eukaryotes contain [[-- Structures overview --|organelles.]] 
+All eukaryotes contain [[Organelles|organelles.]] 

@@ -1,5 +1,5 @@
 #### Techniques
-- Blurting - write down as much information about a topic as you can (e.g. types of [[-- Structures overview --]] and their purposes). See how much you got correct and see what you missed by going through a textbook/looking it up.
+- Blurting - write down as much information about a topic as you can (e.g. types of [[Organelles]] and their purposes). See how much you got correct and see what you missed by going through a textbook/looking it up.
 - Look in the textbook and at your notes
 - [[#Cornell note taking method]]
 - Flash cards - be brief
